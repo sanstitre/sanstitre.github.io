@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 13: Recherche dichotomique",
+    "short_description": "Où l'on utilise La dichotomie pour déterminer un zéro d'une fonction",
+    "stars": 0
+  },
+  {
+    "id": "01_13-recherche_dichotomique",
+    "prelude": "\n",
+    "template": "let rec dichotomie f a b eps = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction <code>dicho f a b eps</code> qui, étant donnée une fonction <code>f</code> qui s&#39;annule entre <code>a</code> et <code>b</code> renvoie une valeur approchée par défaut d&#39;un zéro de <code>f</code> à <code>eps</code> près.</p>\n<p><code>dichotomie : (float -&gt; float) -&gt; float -&gt; float -&gt; float</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "AdqzCYqQWoTvCuUusaxXNSYPTTgUSVZLPTxeWVXsfIsffBNhVT80QyM5u++mbet5nTvU0WkYpOe9Cc/XtCqPq/djW/FqHxYZ6cgae+gMI+ZoCdlK9aAYei9vBc64rnKEFNfJv+dJQaKTYHK1AUg160HPoQaPWEHWcpIAiJaHriNzzfNH7cd0Eb2qbWvmyB19NlFAU6F4VVYxRB5VH+4x8y4kAG/V01V4NTT7e3yee8eE1s5pI70vuec4ykis+tPD+DYCUWISp9LKqDCgnllssiN9/UaBtpae3RtMnG7RIxRAhNKbyop+qMAfNcN2PlTfhI+UVwACDvztD5i0z1qhPVnVul3Zv6JHuyqw1rTZQjVuBkcAEQ9XFW9EHo9Qv30YKfsIQHcKjkcm3I45bKa8KMll7VV81uyycSCLVPFbjbwCVzJeY6DHWNjLLKmKSTCuD5i2CxLhU4cmEVOyAdJj6CDejurFAR+ljTQjmWUoSLbxm2YFnF6QkuVy",
+    "solution": "OildeD35hZGoHoVQwps/cCxETQxRWB/0+VVBR6C9pt5edp1cFjDWUXMgu0CcquNmoGD1O7knvh76Xgo2dWfXd527A6J7DYYDnPRlhhRC04JbQJV2meMYd6ZVFwEE9WSMAgL+ccgPULSRPTqNTnFGbvTApQ7BTkmveAIYox0HtTloOCqtJbXyp+ZdV67sEiydYpUEDk/WTVY9WVQVVuzwnH7fBGlGS5==",
+    "max-score": 3
+  },
+  null
+]

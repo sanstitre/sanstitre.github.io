@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 3: Appariement",
+    "short_description": "Où l'on apparie les éléments de deux listes",
+    "stars": 0
+  },
+  {
+    "id": "06_03-apparie",
+    "prelude": "",
+    "template": "let rec apparie l1 l2 = failwith \"Your answer\";;\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction <code>apparie l1 l2</code> qui, étant données deux listes <code>l1</code> et <code>l2</code> de mêmes longueurs, renvoie la liste des paires d&#39;éléments de <code>l1</code> et <code>l2</code> pris dans l&#39;ordre.</p>\n<p>Si les deux listes ne sont pas de mêmes longueurs, la fonction devra renvoyer le message d&#39;erreur <code>Problème de tailles</code>.</p>\n<p><code>apparie : &#39;a list -&gt; &#39;b list -&gt; (&#39;a * &#39;b) list</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "zYfhQ2kh/KMQestjBzstRSYPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbe2//jDuOTYdv40xEJ2rtFTWbQNaTAIj0cVEo+EuwMsOTqJoTwUloO1Iw8p1WIoCiWqXFJqXhcAGWO8Q3HKAGmFFgPCAmQ8VCobweQMY5MqCqWfCxc1PiQmRd5XBomhWCGYXSUFNTBFHX/pyC5IaELyxnECnO7oO1tBMDySskfa5d8qRSZk9SXLvxvF4lWu4Jg4FPmdZ3jIQ65rJaATd/BskfWImzUbfx9vsL9h0mTbYCIRAzcvAb9dWqNA32gY0MUDmdJWrRxFYUPi0Hpy+ytK5P0+bkpa2TYK9OdLWMQlV3zx5CQ5PW6/+V7kV0/RDe37xWexH+Bs5lkZm20OGq4q8IIFtlSl5Oeyyi9em",
+    "solution": "GM+RiWA6acAPcZXOW1gxGCcQTQADGQQm+RB1VETfxM6ivlkoRjCMF71p6fncwbN0rT7UBBgngen6JKQex7qLq6YyGEtmAYxLi3Z/ccUSZPcqTwl0lLcRfCg1FtJY9SuFEMr0ug9KFriBNGuBR6sIbvnIbl+MFRXqgQQAixL+qDkWdg3S1C64WAP5o1sO6i/ZK5lBCUI0A5JD",
+    "max-score": 6
+  },
+  null
+]

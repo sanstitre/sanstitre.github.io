@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 7: Somme d'entiers consécutifs",
+    "short_description": "Où l'on calcule récursivement la somme des premiers entiers naturels",
+    "stars": 0
+  },
+  {
+    "id": "01_07-somme_entiers",
+    "prelude": "\n",
+    "template": "let rec somme_entiers n = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction récursive <code>somme_entiers</code> qui prend en argument un entier <code>n</code> et renvoie la somme des entiers de $0$ à <code>n</code>.</p>\n<p><code>somme_entiers : int -&gt; int</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "Rv2TniBFEw85XfHFH4pwVSYPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbe2//jDuOTYdv40xEJ2rtkTWbQNaTAIj0cVEo+EuwMsOTqJoTwUloO1Iw8p1WIoCyDnEC2WO5PwPFumQNz71AypN60XGlAaEWU+u89kM71qQti6HeQ3VW8FXneR09KZkz7NRYl/ETApmGR9fVUVvQqneyX4rQVlkSss4M7qglbffuWzQ03tdKm3wf+E1//XyVN0sF8Z7MWJWllWJaH0s7RgOdyELmQvTdB8q3SxHd5==",
+    "solution": "JR9my46pq5ymrvqCgTaaz81ICBgCGV1Z2DxRFVyafIYew9EsVTSTG8khxKnkvKos7XHuO7lzxb4mDN9ZujW3slJmT5IyOxYL74QnuNBDLPIaTtIG/4seqDoVFxRC5SKJXwqKkcBPFunMNETTQ7cIsPCD6BXOR/8tjp5CiYLLwzgwVCz2wmXtAIukgxb5QLub",
+    "max-score": 10
+  },
+  null
+]

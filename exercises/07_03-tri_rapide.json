@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 3 : Tri rapide",
+    "short_description": "Où l'on implémente le tri rapide.",
+    "stars": 0
+  },
+  {
+    "id": "07_03-tri_rapide",
+    "prelude": "",
+    "template": "",
+    "descr": [
+      [
+        "",
+        "<p>Les fonctions suivantes attendent des listes dont les éléments sont de\nn&#39;importe quel type permettant l&#39;utilisation des opérateurs de\ncomparaison génériques (<code>&lt;</code>, <code>&lt;=</code>, <code>=</code>, <code>&gt;=</code>, <code>&gt;</code>). Elles pourront\ndonc manipuler indifféremment des listes d&#39;<code>int</code>, de <code>char</code>, etc.</p>\n<p><strong>Question 1.</strong> Écrire une fonction <code>split</code> qui étant donné un pivot et une liste renvoie trois listes dont la première est constituée des éléments strictement inférieurs au pivot, la seconde de ceux égaux au pivot et la troisième de ceux qui lui sont strictement supérieurs.</p>\n<p>Exemple :</p>\n<ul><li><code>split 4 [1;2;3;1;5;1;7] = ([1; 2; 3; 1; 1], [4], [5; 7])</code></li><li><code>split 3 [-1;4;3;1;5;0] = ([-1; 1; 0], [3; 3], [4; 5])|</code></li></ul>\n\n<p><strong>Question 2.</strong> Écrire une fonction <code>quicksort</code> qui implémente la\nméthode du tri rapide sur une liste. Cette méthode fonctionne comme\nsuit pour trier une liste de taille <code>n</code>:</p>\n<ul><li>si la liste est vide, on a fini;</li><li>si la liste ne contient qu&#39;un seul élément, on a fini;</li><li>sinon, choisir le premier élément <code>a</code>, trier d&#39;un côté tous les\n éléments inférieurs à <code>a</code>, d&#39;un autre côté tous les éléments\n supérieurs à <code>a</code> et combiner les deux sous-listes triées en une seule\n liste triée.</li></ul>\n\n<p>On utiliser la fonction <code>split</code> précédente.</p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "lKzfpP33lZ9XXC/GzLd8USYPTTgUSVZLPTxeWVXsfMAnr/pXVWCXG72habimqgom7j0AO72nwbn6ExERx8+cq9IjA5I8X2ZHmItmwN2UTqJoTwVPp3l1cXIvRZEYkD8JDuH+a2BPFunO3XvLMGIBxLWSnRfuCoWwwEkMkha0wGfFqeeCwKbbn9M8ZQa+nmcOMRUICAsNSlptO6EVELyxnG8eDGlZJ+QWPSnswLTevzeEHwRaSXLvd3QLw9Py3MLnF8Z7MU5Q69u+xACboUhsw75ok53EdBvd4owSyTiQ12BAbeuc/6wYqN5cOcgRGl8fdI8a0IELF+z9TTaM7Nvc1sHTkx+MfrCPGi2/D0mAI9IiCAICCotZAz/mX/FVr3v0+aYI+V25w/NZU+ihbK7iXhJ6j8piOfXti9jzUOVviqARYylCLVmTXdCeM13EAGTn1UfVTdGmU11gAUaYWJFun6S0kbPQB/8xlH6n5BtoR3Tp5MlIkQsZhP1ZTIPLoewwyeWji+PvytxK0TEP/spaVWwBMEpTS9/VIEQTPmzgfM6/aQRmTiHL2Vwhu+m8vKJs/H8RLX/fuP4qXcEYx7+Jq9w/QopnXMNlpLxueYpJ+PI8DctLqrA3ez5QUs6S9TOUSZLpkNBPFt3sH6L+VBsIbqCI6E0nT/0ceQICxbKG8miuqK4+cb8nypk5MU+VjiYDYkwNLkg2XB/uQUR1UaKe6jyrQmlx0PFj1nmxabzEwXWK2dAjLDnVtch3y/DuZ1TvPWVNHT2EmlTHiyas6AB9dyFO/UaBnFTxZVUMjAq42xQMlxzwlEIIqJ/f0cMD3BrrdPWERNB3XOuqH5P0yhm3FJagacCpucuQU8NPJsvV0Hx3+jRFETMZGW9Q0Dd=",
+    "solution": "f6qg4GZ9KIoNArs5RogHYDUOGUo2UEwNLBAMPoCgwY/qbQ9cGSzICmZhbrXwtd95oG7UBBgngen6JKQ2x/DHcoRgV7orEPkjxaRatYRU4r55Tw6Rp4dUfDpZXcRCiW3IQN3Ja1kPR3n14WaTHi53s+SIkU0IRTbAwEkM7YLIcGzzQvlt4X19jBhGejo2H6cc3VtBBRlZVVo/EFkGGZPBnDrfQX5ZMgg43mHuuOyea7CU41IpNiKbfrQRjRyrYwrbF7pYHS11694+aVXE6AB9dyFOlAOSc/Gl1Bp+jAeULxQU51Co5lY4wdt3EZdKZU7xs1rEFcRCVrLiA6e2ndKc0qJ3tFYlIS0NS6HqKVcXRHk8F5QYWTMZGTUQ+z5QsP0IQM2uPVUdjnQyB+j6xarY2L93/Hda1ufhrpeZHLpujatWN9hY06DKTxXlMefEHWS6IQL1GdHyU3ldHF8n+gE76ECT7f7ZDFiqyjZqlpNhQZuhoMEz7VwAhO1GHd+ZjqRocV39ZndL",
+    "max-score": 20
+  },
+  null
+]

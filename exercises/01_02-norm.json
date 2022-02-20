@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 2: Norme d'un vecteur",
+    "short_description": "Où l'on implémente la norme euclidienne",
+    "stars": 0
+  },
+  {
+    "id": "01_02-norm",
+    "prelude": "",
+    "template": "let norm x y = failwith \"Your answer\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction <code>norm : float -&gt; float -&gt; float</code> telle que <code>norm x y</code> calcule la norme euclidienne du vecteur de coordonnées (<code>x</code>, <code>y</code>).</p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "Inicb0b/mEPMnGAc1E7OTnYPTTgUSVZLPTxeWVXsfJobfRUcXWy0Q//hu48hvL245zH+PD1ew3m3T+ZQgWu3dBF74QIsXNN4pLtoohQAHa1/FhcP6ad3aW6VGdZCkjeLA1a+dMgPUPC42WbrZTFIbLeHk5rDIRWwb5xJocG4gB2t41PK/4qFV1niJHln4bt4YoIIGGgLXExdXEUVGP7eyETwAHM1NII5MDDxea0exGbA13tbMC0vcrQM8R7I",
+    "solution": "Kdt2IB1zz1Hc+jB9kxgp7DITGUpZQR9TZoBJFRrifJEetEdcDGyo",
+    "max-score": 10
+  },
+  null
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 2: Sélections d'éléments",
+    "short_description": "Où l'on ne retient que certains éléments de la liste",
+    "stars": 0
+  },
+  {
+    "id": "06_02-selectionne",
+    "prelude": "",
+    "template": "let rec supprime a l = failwith \"Your answer\";;\n\nlet rec unsurdeux l = failwith \"Your answer\";;\n\nlet rec tricime l = failwith \"Your answer\";;\n",
+    "descr": [
+      [
+        "",
+        "<p><strong>Question 1.</strong>\nÉcrire une fonction <code>supprime a l</code> qui supprime les occurrences de l&#39;élément <code>a</code> dans la liste <code>l</code>.</p>\n<p><code>supprime : &#39;a -&gt; &#39;a list -&gt; &#39;a list</code></p>\n<p><strong>Question 2.</strong>\nÉcrire une fonction <code>unsurdeux l</code> qui renvoie un élement sur deux en commençant par le premier rencontré.</p>\n<p><code>unsurdeux : &#39;a list -&gt; &#39;a list</code></p>\n<p><strong>Question 3.</strong>\nÉcrire une fonction <code>tricime l</code> qui retourne un élément sur trois de la liste en commençant par le premier rencontré.</p>\n<p><code>tricime : &#39;a list -&gt; &#39;a list</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "5pGKrKvRKZ3v7jNP+Ea1ySYPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbgB/6jD2MCknhsz6KgoJc7rVmo2mUQUuXd5LzOgaehQ0ZJEbCsBPpbAEeGpHXgUH9nLgTLHma2BPQqzDYESVGydLuuyHn8zT2FTrgQQCjwaowiKABJrag+sGe4elLpYvHw+ZO/sNBVcNGRRiEF60RLz95W8rQTBLYJIRJi86g3fqy5usNJRaYiLxd4QP7UPuZsKd+BdCUWIQ6/XOtTHi9CwNdyFO/UbfrlGpPCgulTbeIxRJt4Co/RtWbY6o+ZAGY5jFhx7Z0IELZrmyGQXG6YedRtp/7vebgWfkveFdUzMvi1koWlkOEQIZ37ZUVBUSeK+00r5F3AAhjVdO2I3Fq4q82IFypAA/JfT6cR+WXclffPdF2lt4MUTgWM+hKuyNTnuYWEfVTdGmKu/xDAmYCccj6AmS7+yQQ57dzXwqlpNhGffNxvkG5QtVv+YYAsv3iLBhzQyNiIP/0MTbcHFB0nrJjU/xTUpRGR/7EzktPoCgh3IRc5RwVSWDG7EegPah6PA5jRfU4oAiv40xEJ1Rv/CXn52rV/F5Y2NOjvAjxtxA2b6oTJVUp2A3bH/VFIpQjGHND2eYa+kDPJXQNDrHCzI16002n5XVQ/uyjkpmnImPqXO4B0C/g+9g9L3eYSpDZZPNYlEjSUVAAo95X9UVXPCeyDriXml1Lxc4PmHbbMDRn7DENJRaYS+hfbIW/FS5A0fbQ8YCUToXplWThFXE6AB9dyEke8KdzVGdNXddjEKRIvhMixecjEYWx4xlOhAKZT3xs2qRCsUL21zOTUmIzNvL0xl46vLmz7bMre29Bz9vkh51ABhYEX/gGScFXoUYtO8FJZBBPVV5xBxuP4aqcK7zXcUl8idzKvaph6+KVNlg/fVC1kxUMFPPWMnL0JCr",
+    "solution": "K/Ds+/gXKUYv8oAsUwusmGMATQARBDMZ+VkQQVPofIQeeQ6wHUu0XnchksGccql5qlzb4jMrfq+eRY5RcWPSdEJ7A9o7UYYG/aQtrNRQNutdCgUOp3JeqDpJFxoY7iOETYX+v1wVHrbFZGrBBypNbuGIkUb+EDbDfA5Y7ZyLsmlmWbxaX/YqEnH+DHl2b+CJL5AZDk9ZVR9bWUV2Ouyx/DqBPDkY4st9D/KsuOHezHSgNJ/6Ypzbihs4jUj74h39WGITSi6B65+XcCqcy6wtwmd2pBjFc5T9PAQ4pkzeCM5Fmcvq/QpWfIJc3JxC2E7jdJWrRxFGVPiyBUmFnczc+SharWwQE6Ee32234Xrr7x/8HUliUGQZFH1Q+/Rs9b8IZexVLUcf8lgwYs0Rq40cILc56AJJ1rubxQqJCe6a6vRYY6BL3EGGBw4lKaj3GznzIp4WBxmjU3lkT5in",
+    "max-score": 15
+  },
+  null
+]

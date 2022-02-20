@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 14: Tours de Hanoï",
+    "short_description": "Où l'on visite le célèbre problème des tours de Hanoï",
+    "stars": 0
+  },
+  {
+    "id": "01_14-tours_de_hanoi",
+    "prelude": "\n",
+    "template": "let rec hanoi n dep arr int = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>On dispose de trois tiges <code>A</code>, <code>B</code>, <code>C</code> sur lesquelles s&#39;enfilent des disques de tailles différentes. On déplace les disques un à un. Pour pouvoir déposer un disque sur une tige, son diamètre doit être plus petit que celui présent sur le haut de cette tige. Au départ, tous les disques se trouvent sur la tige <code>A</code>. Il faut empiler les disques sur la tige <code>C</code>. Vous déterminerez sa complexité.</p>\n<p><code>hanoi : int -&gt; string -&gt; string -&gt; string -&gt; unit</code></p>\n<p><strong>Exemple</strong>\nDans le cas de deux disques, l&#39;appel <code>hanoi 2 &quot;A&quot; &quot;B&quot; &quot;C&quot;</code> devra afficher :\n<code>Deplacer le disque de A vers B</code></p>\n<p><code>Deplacer le disque de A vers C</code></p>\n<p><code>Deplacer le disque de B vers C</code></p>\n<p><strong>Indications.</strong>\nLa fonction <code>print_string</code> permet d&#39;afficher une chaîne de caractères.</p>\n<p>La commande <code>^</code> permet de les concaténer.</p>\n<p>Le <code>;</code> permet d&#39;effectuer plusieurs effets de bords successivement.</p>\n<p>La commande <code>print_newline ()</code> permet de passer à la ligne suivante.</p>\n"
+      ]
+    ],
+    "prepare": "eMNYz8MGPZ54C8rBZl6GKSITHloYVllZ2BATZUXsfJFleoMcF7b4GyMpfPehb19=",
+    "test": "0tx7AnGHpQV+m0xjti8KaSYPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbe2//jDuOTYdv40xEJ2rs/TWbQNaTAIj0cVEo+EuwMsOTqJoTwUloO1Iw8p1WIoCyDnEEdbIsJhIFuHONG7HHX5Gq4CFz90SXl45f5wM6NWOxXNxm6wyI4OEV5mfsmGbGh3HYlFNTEc3XF2mADtVELyxtmOxTTkXA2/T1iuPuuHehUPGPYca+jHzxvMbjoj7K4WdT8YAMzAZyQrBhXPs6zFzayFMcliNtkP4P/oudz7RIxRAtZ+h6Ed3s2AwE2NPY5jr8cuBF2RHQ+yELW+Jndby+VeJJ5NxwclwT4vmPLwSorIyBDINQ9lZ3Q9QVlB3r3DBOe24FkV5y51jKre/euf1M3h=",
+    "solution": "aGqUV7sHW8HbuaGGeWZl+C1EHUoYVllZKEJDFQjTfM6naEFmVXi0TyMtg3yml3M5oDS1LmEewP03DIkDfjXQq9xlZ6QnXM2ImKZax1EAILt7HdAKp41UqDgV+N5GkHKEPwqYaYYKROaQN8rsTiA+vPzTu9+BCoWwcBdFogaory8yYt9YPAIROKiy/1z9IiYeJ9FFBFBXV/BwGFdYA0Dx8HevQXpHMstWPSnj6wSutWzKYOttNnC8eOZ4lRPG0t4nAiVHAjJ1ppqNqSndlUV9s8RO/lbatoXg0FVxjECR2MESnNualDEWaYJzMt6/GB7xr10QO1cOQrXsApzJph4qFg/zpR5jSo9gbOOrpKQq2Do8BQ51EV6LSjAf",
+    "max-score": 3
+  },
+  null
+]

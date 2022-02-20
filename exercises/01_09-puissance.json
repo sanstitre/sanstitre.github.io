@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 9: Puissances entières",
+    "short_description": "Où l'on écrit une première fonction puissance naïve",
+    "stars": 0
+  },
+  {
+    "id": "01_09-puissance",
+    "prelude": "\n",
+    "template": "let rec puissance x n = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction récursive <code>puissance x n</code> qui, étant donnés un entier <code>x</code> et un entier positif <code>n</code> renvoie $x^n$.</p>\n<p><code>puissance : int -&gt; int -&gt; int</code></p>\n<p>Vous ne chercherez pas à optimiser la complexité de votre fonction.</p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "mNyZl6x7Jh0VAEu0TKNfjnYPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbe2//jDuOTYdv40xEJ2rtFTWbQNaTAIj0cVEo+EuwMsOTqJoTwUloO1Iw8p1WIoCyDnEC2WOa2kRFqW3YE0gTmFIbqLYlQaSWFTygp6OxdrOcDi2jsiRS6xy6gsiQM2A7TjCYloTTB/uWF1sXkp0W43dnC7xTTlyIZU0PDW8g4OqhmHWPZkVYiLvxqdYyFbhPejbQ8YCKzxD76rA7VXHnEUpdy/H/VLutkHq3QFw754C2d5Uzev2b9dWaYN5RIAO4pGrv44HDtRIXvyyA58MsMby+YPwaJo1AnmV7XYGyoC8NYtzGQ53U/BKXBYBOp==",
+    "solution": "aY4EnROid6QimhhTy7AyZnZBFUo4GQQm+RB1VETfxM6kr6ZlAS8oXiNhu4CcfbMsj8SFVWNnfvLcXfYRumWXg9IdA/9nR1cYjuUoutEAPPJgAJ63nLwe",
+    "max-score": 5
+  },
+  null
+]

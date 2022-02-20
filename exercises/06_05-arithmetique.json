@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 5: Arithmétique",
+    "short_description": "Où l'on écrit deux fonctions liées à l'arithmétique",
+    "stars": 0
+  },
+  {
+    "id": "06_05-arithmetique",
+    "prelude": "",
+    "template": "let rec diviseurs_premiers n = failwith \"Your answer\";;\n\nlet rec base n= failwith \"Your answer\";;\n",
+    "descr": [
+      [
+        "",
+        "<p><strong>Question 1.</strong>\nÉcrire une fonction récursive <code>diviseurs_premiers n</code> qui, étant donné un entier supérieur ou égal à 2, renvoie la liste ordonnée de ses diviseurs premiers (répétés selon leur ordre de multiplicité).</p>\n<p>Par exemple, <code>diviseurs_premiers 60</code> renverra <code>[2; 2; 3; 5]</code>.</p>\n<p><code>diviseurs_premiers : int -&gt; int list</code></p>\n<p><strong>Question 2.</strong>\nÉcrire une fonction <code>base m</code> qui retourne l&#39;écriture binaire de <code>m</code> sous forme de liste.</p>\n<p>Par exemple, <code>base 2</code> renverra <code>[1; 0]</code>.</p>\n<p><code>base : int -&gt; int list</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "TzSPrE+OjRlC9jUtUNeT8SYPTTgUSVZLPTxeWVXsfJsfcoFoEDK9TyNpwKn5bgF67yD0MzlewP+6TtdGx7CXuF9sKBlyRIZYnL9qx1FSGbBoRwoPiLM8aXIRWZVMjGmQQIeKe1sUPJ+11WaTCz9NvLPBkpPbG6Wl89kMbxeNxHRO3tubP4uxCpfhKW28x2zONp5CA6EIAo/uEAxV1a+t8TrhBXQDKY5+J7ublbjwwzjN11YtYXKXuxsjjRG74cLsF9/EBCoTl9LGr5DdblE8tm5Ao6rbhBep+QF4/pneChRAzcucvlwCg1xl1wl0MUX9dMHKExFHXPupMG+5nhelPQEj8udQtddLAegfG9KzjZAvBBd4EmMpGW9QERVOfvzF+aYE0lcxyQxc3KW/q40cIJ2kjSdqNe82tFaRGKtBqugCN5JRPF4DRZP6V1SEAGTn1TXxZ1GmWJYdVR0Y+NkylED35u7CDFaq/UtwlkI0SPvDm11SnER0v+pjTPjOkvAcAlW4toWrkQEYeDsaEq+1ozM7A56UGRs0KENUFoDEgOISr9EcASWICppbbOLbufwq79rFACIkvbqqDIkrdWT0foZaTRcIOYYL74Ra/xFUP36oBct0p0gPqHU0Qs5OjHHQP0Hma2BPFumS2yvAC8N7laCI6E+BVU0xfRlAmJzUaHsU3tubTavRUF+a+C6CrNzPHFNNRB5QMmBwEBEVEO3q8XW5VR2dYNs41i8WqMDRhnDNHuhmJ70vvv64oDr7KdTeF9/QFDFFn/bJ/BaH6AA/xSUoo5fPb5X/QoZ3yQH+It1PigbC9RoCqLBUOgU+4l8nbY7JWKtLF+z9N5yR8sni2FJos32GhZpLDv/eJ/ryj+JoPG1=",
+    "solution": "BH4OC/Jsi05R6wgfBviTPnYMBA/DS6/X+QleFRDkuZpefARbVSGOBiMju3Wcgt95oDSUM7Izv3v6E2/1eWbXclJ6SpUvOxYL74Q8eZQAMexlAJUGp+gRd8FLFvMMeA7EQJq+x2B4FuHONHLTVSsIduH2iE+JRRu5uUlF5OGOcDkI0wwkF7zVdQOW9n50lxt9+FBEZ6EZUF2wUURNEP4xj7C6+o1ZJYc4ITiruPbftGXE3ZR7SXLvebALz/z7Zw4wCjJK3jIQj5rZcHLm6HtZjHFOnUbMtkn7PFkUzRHUIxpN/M8ljUcjqKsgOghA2U8x8ZO40A==",
+    "max-score": 10
+  },
+  null
+]

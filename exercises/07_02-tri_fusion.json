@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 2 : Tri fusion",
+    "short_description": "Où l'on implémente le tri fusion.",
+    "stars": 0
+  },
+  {
+    "id": "07_02-tri_fusion",
+    "prelude": "",
+    "template": "",
+    "descr": [
+      [
+        "",
+        "<p>Les fonctions suivantes attendent des listes dont les éléments sont de\nn&#39;importe quel type permettant l&#39;utilisation des opérateurs de\ncomparaison génériques (<code>&lt;</code>, <code>&lt;=</code>, <code>=</code>, <code>&gt;=</code>, <code>&gt;</code>). Elles pourront\ndonc manipuler indifféremment des listes d&#39;<code>int</code>, de <code>char</code>, etc.</p>\n<p><strong>Question 1.</strong>\nÉcrire l&#39;opération d&#39;union de <code>union_sorted</code> de deux listes triées.</p>\n<p>Exemples :</p>\n<ul><li><code>union_sorted [1; 3; 5] [2; 5; 8] = [1; 2; 3; 5; 8]</code></li></ul>\n\n<p>Cette fonction devra être linéaire.</p>\n<p><strong>Question 2.</strong>\nÉcrire une fonction <code>split</code> qui renvoie deux listes, l&#39;une contenant la moitié des éléments et l&#39;autre le reste.</p>\n<p>Exemples :</p>\n<ul><li><code>split [1;3;5;4;2] = [1;5;2], [3;4]</code></li><li><code>split [1;5;2;3] = [1;2], [5;3]</code></li></ul>\n\n<p><strong>Question 3.</strong>\nÉcrire une fonction <code>mergesort</code> qui trie la liste en utilisant l&#39;alogorithme de tri fusion. On utilisera les deux fonctions précédentes.</p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "K2nBjPr3g3zEmEN5ohks3nYPTTgUSVZLPTxeWVXsfMAnr/pXVWCXG72habimqgom7j0AO72nwbn6ExERx8+cq9IjA5I8X2ZHmItmwN2UTqJoTwVPp3l1cXIvRZEYkD8JDuH+a2BPFunO3XvLMGIBxLWSnRfuCoWwwEkMkha0wGgdnxX+vKbKrsCmDnzFbXF9MRUICAsNSlptO6EVELyxnG8eDGlZJ+QWPSnswLTevzeEHwRaSXLvd3QLw9Py3MLnF8Z7MU5Q69u+xACboUhsw75ok53EdBvd4owSyTiQ12BAbeuc/6wYqN5cOcgRGl8fdI8a0IELF+z9TTaM7Nvc177zeZfAfsTa7O1PKbPn0G5iCAICCotZAz/mX/FVr3v224MO1nxm/AlyP3zrqY0qCrllpDxpJwX9cBG+R3s9j1FQSUMWIkyIWNjLLKLIVTCeP5CaTdGmU0pdVR0YQwFZ5RTCjr4QB/8xlH6n5BtoR3Tpp1xS5U21bqBNQZ4LoewwZtCNo+avi0uSg9F5nr/23CpTGQ/VGmMp+RARSk4dwsIvvztUVWD0ASAghPmoquEfmHLBMWNfhfKtQ29ZdGuZb8k/TQMjV1ILz4RraY5ANuMaCrx18rEFbX6VBs6T5SrN+uL+a2Al+g0gPSDgTmFIbqCIcpPCXkmzfz2/50CO5H5bjMSUy0arbYTfQG34wSIpYnICCFQZGlxgXF6BEuzVoBGTQW9QMhd5NSi8ebznuGfeJ3tbJDO8ePILw9LsZdLvCi/M3jIQ65rJcHas6AB97XQ+mEa0to8n+FV+9RHFIx/3zcKly6tWdJ/y0cNFMQGlwI8IDcJ4HKyZTUe+zdKc+WSzeZ0efqec/4lVOJWNCns8QRM4UFRJVSoCCokWeK0IMeNBMEs57RhcPNLadvziZYAl6HcnYrOI7FaZE2/WqZ2LLS6RY6CGChzHOveQSSrdWj32NMHHFORxVRSbFcc6lAyU/O4STpjdtisa/9dmB0b7mdEVm//BvfQpQKP78vBhN27elKf9hbfZaEFW/N680CIIAocFZ9wWJUVFXFaipt5er9EcVWD0XiNhkvywxrMfoHi+KjMbxaHkXcQPxzLZf9JfSpIjEPtL7e9fqdNFNel8Gw2/fLNRqGISUgZY5DKr+Zq+a+tnPJXZNBHTTmFI6cx=",
+    "solution": "ZgVA5Av06Q1yiT4J8aEbsDEVCA5RVQ5ZJQIRCBDlvZohd9FoRGnXTXMqgP8kl3M5zDTu1o5PfvbaXgUA7CrXh9JN4kl2EItV706sohQAOPIpXhcV8+JWtHkHDMIO5nWETYXpa2BPFunZ18rSX8FUbuG+6BLJT/rwgVoW9dP0ryR9yzqTFhnSQ8+TMw4G87HwYl6NCVkKXDNwEBEVELyx5XjfACcV4Nt3Yy8ggP7khjHWLxgiN8n8e3d57/ep4cLfQyxTUWJ1/AnAcDv6klVOdyFO/UaBtkGd4UQMp9uE0MlPk+WryokCbZQl2dJIMQTxchG4X+t6W3mpTReM7Ify0W3ZQIAUists1wMmogXNJ4tqQRxFRVEmGW/MEWgsr3XWOdEdMVU0wyVm3PGtovb3IM9v/AQiDb+7j7LmE+Ji/asTLB5U1Av1WxygY3iIRTDnPVbZThj6U+EdB9+UCdU7kUDS/N4gZ6+l/SU6nQM5RPvkzwg1mR91tucyZtWOjqRq0wMUmRjM5UI6iCmSp1Jsg9/BTQFQTVwR+VpRQ/ysxOIer6lcL6i0UzkhksGXbbNdoEaAAzNacKL+CfQex7qLq8ljDlc7XMN4706rhYRM2qJtTtY484xFqHBVXgZx9SKEQJq+a2BPQaKZ3iWtHHh+uuXM6EeMT94rhRhDjgbOrCp7lBmNHYnBQ7H1LNLBpyan3FwyZ8sUXEtrVUJ+QrixtnvvW8BB3dwEYGO5q+0wbDD4I3/93F5=",
+    "max-score": 30
+  },
+  null
+]

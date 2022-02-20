@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 5: Nombres premiers",
+    "short_description": "Où l'on définit un test de primalité élémentaire en programmation impérative",
+    "stars": 0
+  },
+  {
+    "id": "02_05-nombres_premiers",
+    "prelude": "\n",
+    "template": "let est_premier n = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction booléenne <code>est_premier</code> qui détermine si un entier naturel est premier.</p>\n<p><code>est_premier : int -&gt; bool</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "MzsnoNdNtBKiXQfgBqEm3CYPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbe2//jDuOTYdv40xEJ2rtkTWbQNaTAIj0cVEo+EuwMsOTqJoTwUloO1Iw8p1WIoCyDnEAsSVt+k/FumQNDzWHGUivvLNnQaEWR3DwEkM7ZX2sXAs2iLYoXGmFKl7Sq/EkzIx+mMMA/VWVB15X9UVA+yhpnvmSB2VYNs4LTaxhv48nSDENJQE1zTmr+FOm5H4A0inBjICWWtQznGJcCnxlHdjsnI0jRqBlmGWPFVX7o0r11UOlxf9upo3bZNaOgAA2QjFt2qQRrFuF3aoAlnBpxegIk1eNdbHPK1CvyEH8kXo",
+    "solution": "GuClyaglL+ESw1mROO3/KCkBUGYRGVV1PRBFUEPsfNUefAReVTSJC8ZheOLgbfx5jTTGO7VnbKLxE4MRx7O2q6ZmUQV7DYZQj0tvqcBPM+ZoXgVTp4/RxCFVXcRCjnLKBZr3sIYGR4yQZHvATicIdPzIu9+BXFi5fA6M7JaLwj/WfODLfXIdi9To7ZlhxqlxY56NUApZVo/wVFhaELyxnHLdQXNVLZQ01iy9uKDednCQ4NEoYn+qd4V4ppn7020nEXMZ3jIQ65qAcGXp6AEsdywO6FTutkHh1osTpj7RIxUUixzwb5==",
+    "max-score": 10
+  },
+  null
+]

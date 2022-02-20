@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 12: Nombres premiers",
+    "short_description": "Où l'on définit un test élémentaire de primalité",
+    "stars": 0
+  },
+  {
+    "id": "01_12-nombres_premiers",
+    "prelude": "\n",
+    "template": "let rec existe_multiple_inferieur n r = failwith \"Put your code here\"\n\nlet est_premier n = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p><strong>Question 1.</strong>\nÉcrire une fonction récursive <code>existe_multiple_inferieur n r</code> qui prend en argument deux entiers strictement positifs <code>n</code> et <code>r</code> et renvoie <code>true</code> si et seulement si <code>n</code> possède un diviseur entre $2$ et <code>r</code>.</p>\n<p><code>multiple_inf : int -&gt; int -&gt; bool</code></p>\n<p><strong>Question 2.</strong>\nEn déduire une fonction récursive <code>est_premier n</code> qui renvoie <code>true</code> si et seulement si l&#39;entier strictement positif <code>n</code> est premier.</p>\n<p><code>est_premier : int -&gt; bool</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "xUGci4Ov6M76xI+ntwYGynYPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbgB/6jD2MCknhsz6KgoJc7rVmo2mUQUuXd5LzOgaehQ0ZJEbCsBPpaYJcWdBUf1PoGeQC1rWrKdGWPvVZyKWGzNKbxjEu9+BXkDfdDIKiIXNxHS6Xh3B8JbGjunRz+bPep+DN6UEAkdmGR/wEGxQRODnnHLlFTkY4stWPSnsx+PexWbL3O/VYiLvxvM+5V8o4cLBDjNOBSsAn9ejqTGupVIssnQ1/jXBtkGdY5ZX/RL2ZcZ+9gnxy9d3s2AgJ2NHQpzlsM4JSM6FQ+zkXVnJpIezM3g8r2ji9YnVqJG3bbGtW1cxQVcFGDMZGW9QTkJVcaLZKgBBPVV5xF270uS5q3upK2dlyGgoYb+7tEaQ0I5u/e2xHC52JlSGTsGoL+eNUnGNYlfIZ1GmIq/aAVbXDJEvalDqyfWEToTN6XFx6pZbBqu79xRE5RAVnrtJCYyJnf2w9UGvkufX6Myiie4ijwVJmjMVCBcFZ/cMJkNFXFai/c/EbpZdHCfICppuhrDxufwq76fU4jNn9+4kBtMRfjXDq9dxA6MsXdwjxaRaeYQCI+E/M1U26PhYbWgXPN6C9SL+EcvXuZpKRK0Y1zf2Tm/BbqjW6EemS/qsfpBCpIX+cC8bE4OTh24It4X4nqrrbpnB3V2yTBEZGWJhB55OEK8fjSCfUnZV21I7WX7swZ4ehnDEHs5fNiL7vfFCdoG73NLvPWRHA821l5qw/FXs6AB9tnI+f6nAaR8xZSwV9A4S+YQDkJfhupgFfNBUWcMJZA0fbIGESgd6F+z9TUnJtIfoZ+sDrcv5zefKc1TKqv8gGhpvE55mAjQm",
+    "solution": "rLNfpSR9n7ZsM6tPBFc/4TYNGQVBVVozIFgXUELpuZkwr5dcBjDG2XNhgOvcv3McoCWUKntiwKLyHwVCgpGXq52fURR7W1ALoaQnxtAANqJtTxVP/4tUd8pBRIlHrnKEB23JrNAKTqWDYHftAzQEuuyYnAPbQ/qqhRdFmJe1cHPlaymMZn78DAIzFp6QXl/9HBE4CVoQXEswX6EVDZPxnHLdQXNV42sO1nm/f4PewWGIZcFVYiKqeqI+jVas4g3jBjgLA8ZVbU01rCr9kEp68T5AlpvTb6Tw0/VYjEu4LgVJ9qA=",
+    "max-score": 22
+  },
+  null
+]

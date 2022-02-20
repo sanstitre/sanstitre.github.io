@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 1: Sommes d'inverses",
+    "short_description": "Où l'on additionne les inverses des premiers entiers non nuls",
+    "stars": 0
+  },
+  {
+    "id": "02_01-somme_inverses",
+    "prelude": "\n",
+    "template": "let somme_inverses n = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction impérative <code>somme_inverses</code> qui calcule la somme des inverses des premiers entiers naturels non nuls.</p>\n<p><code>somme_inverses : int -&gt; float</code></p>\n<p><strong>Attention.</strong>\nOn veillera par commencer par additionner les plus petits éléments pour éviter une partie des erreurs de calculs.</p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "uVw5A4YClHel649wV5lLlCYPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbe2//jDuOTYdv40xEJ2rtkTWbQNaTAIj0cVEo+EuwMsOTqJoTwUloO1Iw8p1WIoCyDnEBs3VqIQnPLmQNDqRHHhFseXimQ8XT94fhRgOxdrOcDjdWWQCw8uQ4eundmV+JlnJYloTTGNYVklzXRc1XrixjSrvQTZV12Jk1i7suOOdwze3I0gaYiLvj2okdkiy4g3jSmY43jIQkUe27njxkkUxwyErcWXBtoDq+CwFzQmY2slajJKh9pQWagcp4vpOY6mf9O7EANRFF+GsTUGXhYel3LwP2pnaJ2BSt2A=",
+    "solution": "1/9MPreBrY571SE+K9/RTSYSTQIRBDMZ+VoUQRDvfNUefAReVXDVXmxj6fncbbNz7j+UNzNqfrn6GgZGeHaYq/MjR6gIEIYL74RaqxQ+34JpHZVEmeNAt8o+GN6KkjeLA1b/twYpXaKENHL+ZTFIbqDMnp8EEDbwwEp4xp==",
+    "max-score": 5
+  },
+  null
+]

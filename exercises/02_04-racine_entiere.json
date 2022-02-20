@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 4: Racine carrée entière",
+    "short_description": "Où l'on calcule la racine carrée entière sans utiliser les flottants",
+    "stars": 0
+  },
+  {
+    "id": "02_04-racine_entiere",
+    "prelude": "\n",
+    "template": "let racine_entiere n = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction <code>racine_entiere n</code> qui, étant donné un entier naturel <code>n</code>, renvoie le plus grand entier <code>r</code> tel que <code>r * r &lt;= n</code>.</p>\n<p><code>racine_entiere : int -&gt; int</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "JQd8uyzyOk/SqwqPy9VRjSYPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbe2//jDuOTYdv40xEJ2rtkTWbQNaTAIj0cVEo+EuwMsOTqJoTwUloO1Iw8p1WIoCyDnEC2WO5PwPFumQNzzSDH5GqhaNn6LIT94twz2M71rOvzhuE8+tPIF9A9CUzY0UZ6fE4UFFP/BXXVY9H/60RLygjCrvS7o1+4F41i7sdqvbuTuTHwRaYiKRte2EjQClMxnbUnESLE5fn9e2cH496BkOdyE2lBrbhRTq+R/CjCLoCIRAjxzwuooXdw/5YvpM3Qjgrh8HC1VO+r8iGUmwvhfn+CR40r/gizA5BtGSiw9cX1ApBDJ2Op==",
+    "solution": "vun6VMpSnTDkrXhtXslJFmEETQIRBDMZ+VoUQRDpfNUefAReVXD0F8kSu+mvtfwt5TSVNzNhfvPxXdUMxzWXb5l1A/F7EMdL9b/aeMlA0aJ5ZJVP64p4bS2aFs6DjCbV+5==",
+    "max-score": 10
+  },
+  null
+]

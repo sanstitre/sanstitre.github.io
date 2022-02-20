@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 2: Nombres parfaits",
+    "short_description": "Où l'on détermine si un nombre est parfait",
+    "stars": 0
+  },
+  {
+    "id": "02_02-nombres_parfaits",
+    "prelude": "\n",
+    "template": "let est_parfait n = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction booléenne <code>est_parfait</code> qui détermine si un nombre entier est parfait, i.e. est égal à la moitié de la somme de ses diviseurs.</p>\n<p><code>est_parfait : int -&gt; bool</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "k99rKfC9fGd4NgGkY7CjMnYPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbe2//jDuOTYdv40xEJ2rtkTWbQNaTAIj0cVEo+EuwMsOTqJoTwUloO1Iw8p1WIoCyDnEAsSVt+k/FumQNDzWHGUivuH+p54IXo3DwEkM7ZX2sXDJVShirs8u+QVIk4U5Bb28+mMMA/VWVB15X9UVA+yhnDCfUmR1Sss41i8mfa7kbT4rNJRaYpydxuw4mQ7lKhnbW71QSRdfuE4MxHa/8QBgjHFOo5vVmAPg0pB+8ELoQvgAzgrr6DBFaZgc0hxp15CatdOEB1gPUN0/H67Jvbel3doX+jjwlKA7YU82rX6PvnAvE55mADM=",
+    "solution": "fFX63KcgTu60vIhOKIYeFnkBUGYRGVV1PRBCFQjgrxkcr/EcHCeoXiMbhqfctrMcoCWUKnonwKbpXgk37CrXq9JaRFEtEMsEm4QjeZ9A2PI/BsABp3BRw7FVFhsCz7LN+wq+rZdBUf4fNDqSHDFVbuf7",
+    "max-score": 10
+  },
+  null
+]

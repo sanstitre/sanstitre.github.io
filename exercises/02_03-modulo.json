@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 3: Modulo",
+    "short_description": "Où l'on redéfinit la fonction modulo",
+    "stars": 0
+  },
+  {
+    "id": "02_03-modulo",
+    "prelude": "\n",
+    "template": "let modulo a b = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction <code>modulo</code> qui renvoie le reste de la division euclidienne entre le plus grand et le plus petit des entiers naturels passés en argument, en utilisant l&#39;algorithme des soustractions successives.</p>\n<p><code>modulo : int -&gt; int -&gt; int</code></p>\n"
+      ]
+    ],
+    "prepare": "n0Ty71EhxaHmSRmcrZl4RS1EAnNBXEsYPV/3WoDjut6xe6NlGn4o2Tdcb+mbtfZ88mT0LjMgxbm/XdQRgHeZq6xjWkFqDvpL70lge2pA3OooXgVJoeMIqCBLFt/CoWuBDuH+a2BPWqzENGn0DzVIgaDhk5aPXkOycol3pIX+t8jOf44Mi7uvra/JOanqikNFYUEGBVc2GUFwSRF1XwPxnDrfEip1Mgg43oe7aqbnwjSB3qtqJ7Cucr5Q/oHkYc0vSopCUS21kUf8cHas6Edld7/OmGXuaoTxPFlW/QiVIxkA6svbzAwVccAdOghA2U8mdIuFRtoEU4mxA9f8",
+    "test": "Yp/entOH4WWv7F7i2J4UQSYPTTgUSVZLPTxeWVXsfJobfRUcXWy0Q//hu3DhubNl5W4A4oonr40lGgo4c7qSg6JmQQUyVIYWxaRaeYRNJ+YnBwU1/3YVbXIBGs5HnXLBAdb4r2AYXb7YH8qTTmEUbwX+k5yTCoiPfodOpIaKtXNDCXqW5v2o30DiQeZifZI2YmgNQQdmGR/wEBEVEPWsyDqiEywV44F41i7suLiehnClZsloNmT9d4EN9Faj00jbQ8YCUWIQ65rJcHjUnkV9s85K/UvStp0l3Q2TzRGR2tpJnNvn5AwEaYRc2JkP3Bqfqt4QRtBHW30mCA7Hn+TlPSoZPxTDdm5javB1qjKXzoF8QUkMEVBXMj9QERUQr37mVqdS06Qyy/ceAfiYbKOiII/ylid34ruRcBn+VPFh/fgLSn6RY6CGVhz0NOiWEW8nH5WVH2OmXKIWVR0YQwE76Ay2jvaBTprd57Ye6p2lBsDp7IRG5QtVv+QjI1nYi0Vf+V9jae3jYGLbcWCj2bz1QzMATQc3Sls1K9QRWFacqYRlsENAWWCxC8AefParbaIwrRfU4jNnfvK6GwVCgpGXq9IjA/F7EIZpgLEtqtVHI4JgN3EKz32Rq952VhoFp7LFDwrTtgMAROfV2jaTAyhMuemH79TdBoX+dQhPmJ82cCl/JBSEpaMh+qfIGPgTed/3MUEIFFdZFA2DEBEVELyxnEqxCHMBJsU+Inu9hrzcnSDENJRaYiLvxvMv/kTf3cLcFyNGUS2IoUeZxD+7n6w9cnInjliutkGdPFUWjEKRKqQSlwSw/R2VtxReRIA0YpGlsh8BHtdCDxO9TUnJnhelR/FmPxSKqRIjavNRuWLCiUQsA69FX/2zCoZRV/RZcer1RO9O1QAl96AcUvjtq4rYJZBs8ydvPLf7uEHZWOoa/eN1N9t4NzjtChyl4baJTnCyPQGXZ1GmU0o7B/3VEskyk/vTyK73TofklD9/ll2DC0Slod/InEVBv0V2XIL+5qRP0R2fnhec1X7vcpXrJu+KGGwBZlpRGR/HL/V4DpGwpt5er9F8ASWICk/hu+nc5JhKoDSU4l9bua+6VcARqpGXq6FmV7hpV2V3o+Bag1VTMIl7DctG/3xraiQQVZNClziAB3S0uxRPQqzDYDLgZRsAdPDEpRKBT9itc5hFjxeogTloWTSNf4MhPqTiQLs/f3RXN5dOGF6WVjZe0kBSU4CzzjaFEyIZNYdWPD+swuTRhnDENJokYpyqcq6FjV8t4g3mXDZLHmYQ7oWJqTGgbQBrbksO/UaBrkrdP66ZyB420YZA92PXlEdWqN5bOctmOl79xdyJFtkOReOtCoyHnh0cPSFHPxnotyZnt0x+si8wzpBmUUZ2HR/uWC2UX/53dK+1OfsRLVgol/Zm1sG/q4HvCtQl/Hcu3Oudg6vXCe1uy02xN5JRY67MCaKJ4b3NK9ef3leZCwWmW0UdSB0SSet76E7RjvfVGjyr/W2ryotoKJup5xkt5Qt2xfQMHcjli0VmZQkybhCe4XWkck3o1q89UDAVTSooGVcMJoAZHBClct5otjtcVW8RXmY5fPebtuB/rnWU2WwY",
+    "solution": "Fz6dOxqbAUt0cBzug/R6GU/BTQBUTR9RKFE2FVLeh15zr56eVSH0QiMfu48kqvl5mHWY4nFefr4sDJpRvzz0q5MaA65tOxYLo0Eue2YA34I8CcNP5aFRcXJaFs6KznLNDJr4wZ91QqyQYXXTCyd1teX+6AjBXkD/wBpZmMqMs8kHLXxfm0EOH/jeWKqzHG5rYlE+BF6VXB/xQ6ELD0yhnHak+mkVYNtN1jKpuLnwhniE22VVYiKre3d+p8r7Kg0tQ8lCECMf",
+    "max-score": 10
+  },
+  null
+]

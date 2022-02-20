@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 1: Minimum 3",
+    "short_description": "Où l'on détermine le minimum de 3 éléments",
+    "stars": 0
+  },
+  {
+    "id": "01_01-min_3",
+    "prelude": "",
+    "template": "let min3 a b c = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction <code>min3 a b c</code> qui, étant donnés trois arguments <code>a</code>, <code>b</code> et <code>c</code>, renvoie la valeur du plus petit des trois.</p>\n<p><code>min3 : &#39;a -&gt; &#39;a -&gt; &#39;a</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "Xvp5nnjNfizRNQxEKl3/mnYPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbgB/6jD2MCknhsz6KgoJc7rVjB2hQQUuXd5R74Z9ohQAZPJoTwVPp0NRqDpjWZpH9SDJC2XJads/FumQNDqTTmFIbqCI6DLEUlGww9l0pJaGcHBEtDHM40XuKwEPFR9tK3uWLREYGBFNQE9tQodXEMT9h8rfQTkVYNs41i7sbP7xskbCY2xdNmr/eNgMw/D/+sepEWJcA7k1lkaArmHH6AB9dyFO/UaBtkGdPFUWxl4F3ggAlwSwlEIIqJ/f0cNCLl7mqsnESgdLXO4pMG+JnhelPRHdZYUsb+hvoUwEACA8bZkJQUkMER9ZGW9QERUQr38IZ4lE1lckjnQO3MjGq4q8IMQl/Hc81rv7cRvKR2kspqABY9t3LGbV2M7mPvTKUmCNI5HZGwXfHqIWVR0YQwE76EC0jqiQTo0HkWB7nUcnALr77I/Y5U62fPZNQZ4Lm0odQaoxznjfgzrXNjoN+WivyjNBTUpRGR9Z+RJ1XFfvfrIer9EcVWD0XiNhu+ncbeky5XvO+zMJ/fLB229Rx7rXq9IjA/F7ENJOjvAAvcFOJfYhA2tpltpQbil1WItWeyHLDMfOsJdBPLmQNDqTTmFIbqCI6E+B1BDcaV2Mmh4BsW9RdXrF+eX6+gFKSkNwKf0QI6VNQQdZXkUzUUVxOuyxnDrfQTkVYNs41i7suqCnuTPGHwRaYiLvxvF4jRG7Kg3bHHFHHi5F6yDliyas8SwOq8Q+/U4ItlnWPFVFyR0r1METmw+wlCcj/sAl3xA0T6reqtHQHagIX3myB9mK6MvoQ/CqMYVNz+gt9ARGRWBsghFJQUliVEF1SnwZQ/BqvJX7",
+    "solution": "dDTSlRZU8J8pxJwBDmzf3E/BTQBUTR9RKFE2FVLeh15z9EEcVWCSGXMgu0Ccr3Nl8HH+4jtmgrCxXgo2dWfXs5AfQk67W15674QjvhRBJ4JsTsZP/4tUd8pUVc5HiXHBQN8p",
+    "max-score": 15
+  },
+  null
+]

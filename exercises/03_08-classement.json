@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 8: Classe trois éléments",
+    "short_description": "Où l'on renvoie un triplet ordonné",
+    "stars": 0
+  },
+  {
+    "id": "03_08-classement",
+    "prelude": "\n",
+    "template": "let class3 a b c = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction class3 qui renvoie ses $3$ arguments sous forme de triplet trié.</p>\n<p><code>classe3 : &#39;a -&gt; &#39;a -&gt; &#39;a -&gt; &#39;a * &#39;a * &#39;a</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "ChQ5rIRS7FdzJjK1EIcPlnYPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbgB/6jD2MCknhsz6KgoJc7rVjB2hQQUuXd5R74Z9ohQAZPJoTwVPp0NRqDpjWZpH9SDHDNvJutNNDZ0QNDqTTmFIbqCI6E+B4kDodEkO7ZmHxHVEzTCflGb2QD2Y3wABdUXHYp5DHERNGUlpQFRGHuqxsT3QQTkVYNs41i7suLjqwyOQScIvLTGbfbhRw5L2+sDaCi6RBRkDnU41xD+7n7w9dyFO/UaBtkGdPFUWjELvJcAZ52vly6tWt1hl1wl0MUX9dMHKExEGCfysAo7JpYfc1oDU0a0N+J/oWF5rkVK/AIN8QUkMER9ZGWsTXVRDfqqKE0wBPVV5jkcm3Kjtq4q8IJwmlTFgZbuZiFbgOfIu/egCN5JRY6CGCcjoLLyeR8GdM6u1AIaMQtNcE/3RDMJjboPU/v7EB/ynb8QelldoSPup7IRG5QtVlvEZFZPLm0odFsRxfIR/6Ul5WCPLUrZIp8FBQFIRW/FYOoA0FVPovZxetEFbHSGJI//hu+ncbbM5oDSU4jNnfvD7Eg6CdT7V/EIjA/F7EIYL74RaeYQAOuUlAIc+p15tqFoaFs6C9SKEQJq+a2BPQqzDYESVGydLuuyHn8zS2FTrgQQCjwaowiII5TGanj8yDHJYLsVSwQCDYlFNTBF7HElpC6FTXP+wyDriXmlTLJQ3Ji75tujcujbFYJRn4XKterh38RGxKcHnDX2WUW5QpE4GsSrQu5B9dyFO/UaBtkGdPFUWj5H2Yc1T7N8XlEdWqNAlOcNPMU8fdI8+A1RFDen9N8G8nhecFjfYIKKELtQM0iIrkQH5VPpoBBhZXUlZ3Q9fERVRfuni+PtP2AEgwBpeP3eyq07tZIFLkSpi1xuCxRzMXfI8yugPKC6RYzqDUdnzPKTXRRq8DGQ=",
+    "solution": "hdlkWEsorFaajJJJx/WdhGN1ZlpRVVoN+R6JTRngtZEnr/pXVWD0Xmxbu4Scgah5yTTANnYdfvugUc/IvnqSd6FmA/9eHIZT5PQjxhQvZPIhCJUVp+kMqGUMFxpKkGnESMOCd2AWTeDQ08LgTmENsvPNu9+BCoX5h9lW723TcGXi7DUQTXPgBP0H99yfALm8O96yTBEZGVp/QkQVGOGpoDq5TTlMO2Jk",
+    "max-score": 15
+  },
+  null
+]

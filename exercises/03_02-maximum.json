@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 2: Maximum",
+    "short_description": "Où l'on renvoie la valeur maximale atteinte par les éléments d'un tableau",
+    "stars": 0
+  },
+  {
+    "id": "03_02-maximum",
+    "prelude": "\n",
+    "template": "let maximum a = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction <code>maximum</code> qui renvoie le plus grand élément d&#39;un tableau.</p>\n<p><code>maximum : &#39;a array -&gt; &#39;a</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "7rOpQYThQSjONo9QKii2onYPTTgUSVZLPTxeWVXsfJsfcoFoEDK9FyN/6fncvKJs/H8RACI5rOPhXh21fjXxeQstRlsmEN6GnKpAqtk+I365XwU15PhBdH9vXgYWrp8IB1a+uwECRqCVZ9SVTno7bqD0oQqRRkDWgRd3nJKOvyCMaYw1m2ZBZMsICoQxDbiEK6tIV5AJGUxxXUFZV1+r6HTeFR2aLJhL1nqth3jiwyKe2gR7SXLvd3AS7ViyVN0tEH20UTo2mlXjwm+ipRwkd7dDkB3bhB8z3UdHnELCYd9QkgbC9p2Xeqx3OcNPMWKjs2nEAc/ORbusH5yjjxewFdWm69uHjElo/E62Iz98kddiQUdvRF2+TSB4XpdQraP7OewBPVV5jkcm3KjtqZ7tZIEl/8I7KvPqcBL0Cx5u/egCN5JRY6CGChylCf81VGTp1Ry1GhzmHO/pAVbIDsQ7lAXI8u7UTkan5GFqlosxGLb86xZGaA1av+RNTIyL8qQco0O6Ss4Y3m7PB6YNIB81fHIbDAsQUF2KPWcCW/mtqIFlcGtcVWD0XiNhu+ncbbM5qmHAJy/nxbmkXg6DdGuOq9dxA65tRPt674RaeYQAZPJoTwVPp0E1aWQ1WhlP9p7sQJq+a2ARR4j2ZH3WHSsAv0HFkAuEWWu5uW2M71rOcDiFtaUP6IpEIJlNGlNdVbyvYnFyTBEZGR/wEBEVELyxnGaaEz9vJxhRMCm9haOEd/bF1cUjLSGbi4IQ/UTjYs8p+DYCUWIQ65rJcHas6AA4cnUX8lbHaoec+FVX76DQ3hRN62veyABXfKl3OcNPMU8fdI7ERxELF+qwDBTA6srgPbb+cQbE8AQ57Q9YCSUSpIkuE5pBQVV1SoZWGDdQr38IOewBPVV5jkcmJruwdbHjILcJ/BcJ1rv7xVaZE+Iu/egCN/YUMUTgT2nfPLyNTnvNYDHUCIDfHbcxK9WXDtRjmQaVdPiQTo+dlDQelldoSPvL82A4zpsWh3U4TM7ZiLV9o0euDd4ERSnyY/VZ+V3S/jNBTUpRGR90JFFJXFitw1xR9lEcVWD0ASAghPmoquEfmG4VM8MbuaD3HNAex7rXq9IjA/F7EIYL7+xhvMx+14IKMecPp0we/yAQQs6KzCKZ+wq+uwU0+3fVZjf4GmExzsvI6A4SXjufgQMFiZLosiWAdLhPodNAOfUJB5kwNaKXJRQDTB9QGRRiO6EV+anp8WygCGhQHdx7WQ==",
+    "solution": "FH/ZQ7mhMKyEAXZtj9IlQGNBAQ/FGVQZ2BBDUF+gv1Ymv95cHCeoXiMbhqfctrMcoCWUKnon7aDmHxA4ezeZbRZbA6B7HYY+70ApohQAZPIhCJUOmetYsToLFs9P9X0MB2X+tNBVCenRO8O+R6sIbuTHn5O+IRWwwQBz",
+    "max-score": 15
+  },
+  null
+]

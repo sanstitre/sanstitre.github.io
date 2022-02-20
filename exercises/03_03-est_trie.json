@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 3: Test de rangement",
+    "short_description": "Où l'on teste si les éléments d'un tableau sont triés par ordre croissant",
+    "stars": 0
+  },
+  {
+    "id": "03_03-est_trie",
+    "prelude": "\n",
+    "template": "let est_trie a = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction booléenne <code>est_trie a</code> qui, étant donné un tableau <code>a</code>, détermine si ses éléments sont ordonnés par ordre croissant.</p>\n<p><code>est_trie : &#39;a array -&gt; bool</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "uNV+Q2AAuGeROC82DenckCYPTTgUSVZLPTxeWVXsfJsfcoFoEDK9FyN/6fncvKJs/H8RACI5rOPhXh21fjXxeQstRlsmEN6GnKpAqtk+I365XwU15PhBdH9vXgYWrp8IB1a+uwECRqCVZ9SVTno7bqD0oQqRRkDWgRd3nJKOvyCvnjB1zSftJgRHOs9MmxiXK6tIV5AJGUxxXUFZV1+r6HTeFR2aLJhL1nqth3jiwyKe2gR7SXLvd3AS7ViyVN0tEH20UTo2mlXjwm+ipRwkd7dDkB3bhB8z3UdHnELCYd9QkgbC9p2Xeqx3OcNPMWKjs2nEAc/ORbusH5yjjxewFbOF0EvTIKBnnl2teli7scpiQUdvRF2+TSB4XpdQraP7OewBPVV5jkcm3KjtqZ7tZIEl/8xpJwXjdo+1Ee9B/egCN5JRY6CGChyl4gyBWDDn1leCBwXeU4FwGUKREsky6BT37+zVCo0kyzRr6lc/E+vkjhwE5XYZ5fRNTIyL8qQchhU4WgUyqULDE7uXG2bcn6oQM5kWWFBXO9RrR/akqZoncQdXVWD0XiNhu+ncbbM5oEbRKmwxfrqqCc/QdHyWglIeHFE5Xd/HcNgaeYQAZPJoTwVPp0NRqy9GQv1WpjqBQuHma2BPFunOZiv3HilNvOvAkp4MWkytc8IF5OGOcDi86RdPlHTwPYVHOsMIjO7WYmxjEAACCpJfCpUOB3WVllDzUCZH3d6EZjOddMD5zHmVLhZ91Gybr0UDwGn7SejbQ8YCUWIQ65rJcHaslEUiw5hIpAGCgo8m17xHwpPWYdlOnIfC5pB+fYRc2Jk/MU8fdI7ERxELF+z9TT3Myc4rP+XJUEfE2K6qkpYc/ECIdtYtD5EoOo9ZGW9QERUQr38IOewD3AYlwAt6M37r/cL8IMQl/CEpMf4neRvLCfwhkqMS391DHV+PIYyl4bjEAGTn1UfVTdHsFq/nTpTYO3wb/UfOp3a3X5jqi7Y5olE9UbabzJU+aBBrc0VDXwLZ5OYzdItLFMRfan+USX0IMIjJjHJPX/1DFptC36hDD5Sia2MqsFR6KBi0Pk/hu+ncbbM5oDSU4jNnqr4nCfZXcjXUf5sgTCgm0d2MnLloqsBaNelcGdEG8qkeqDoVFs6C9SKEQJq+a+sKQrXKNH70DzNIrfL+oRbBB5rwg5IDo0+9cDi86RdPlHTwPYVHZJYIo+0eNoMECRMmMB/wEBEVTrvw6WqjBGcP+I53P786f3bExCyrNJRaYiLvxvF4jRG7KdygBi5YRWJuaV3OsX8j5k28fXYU96OdmyrdPFpdd5eU2xRI9su5b9dWegV5RIEKY6jjwI89JvtLF38iGTP+7tCc+0ufXE3VNfIco555lTLXx2B8ISkMVloXGWEZER5O9b8IQPdZ3A1895pjBemR/p==",
+    "solution": "R0SG4j3HJ56uLJx8hnZxO9/BTQBUTR/NLENFFQjgrxkcr6VqACX0H8ldu3WcgrNn5XKU0jMewI76XhgZfj4Sq9xiSkFbEO2ZjeUzhd6FKuU/BwUOp0gRuTVVENgC9H0BEda+rZc/FumQNHKVTiBGdqHB8U+4CkSyuEpF5svHcG/BsJoa2wE6Imc9mz+/J7RlJ/wyTBEZGVBwC5pVE4D8jSCQQTlRLgU++FKsuLnqwyOQH5==",
+    "max-score": 15
+  },
+  null
+]

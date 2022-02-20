@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 7: Triangle de Pascal",
+    "short_description": "Où l'on renvoie le tableau contenant les coefficients binomiaux",
+    "stars": 0
+  },
+  {
+    "id": "03_07-pascal",
+    "prelude": "\n",
+    "template": "let pascal n = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction <code>pascal n</code> qui retourne un tableau de tableaux représentant le triangle de Pascal de hauteur <code>n</code>.</p>\n<p>Par exemple, <code>pascal 3</code> renverra <code>[|[|1|]; [|1; 1|]; [|1; 2; 1|]; [|1; 3; 3; 1|]|]</code>.</p>\n<p><code>pascal : int -&gt; int array array</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "895tzxuP3QobkFhHsHJ/2CYPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbe2//jDuOTYdv40xEJ2rtkTWbQNaTAIj0cVEo+EuwMsOTqJoTwUloO1Iw8p1WIoCyDnEC2WOaZE2RPjJNHvBHXAR6cvI6E+BCUXxcphNo1z9cDiBGD3HnaZtEjagCE+pDWQ9+l6NQQdZ+k5yVFgYHqCzyDruUTRaYNs41n0vf4P6dAuENJRaGAaA7Ol+8RGvIw38+DYCA72EbVyMwnv6lAAE9/sO/QfSgneq4Rs48BqrY1pFjJHc9pBSb+ck+I2PUS8fssiKRx9CF+SfZlnJ8s+o0hJROwHkv6Y=",
+    "solution": "2tNmA3C03x+t/fvkaqWcrjMNCB5RTR9E+XFDRkH5gxVfdQQcXSeQTywhkqD66rNw76fU4nUcrKLxXdQRt7qDdUJhA6UsOxYL74QuhhoJ04JsQgUr9bEQgTIYVgMH9SuNShuTa1FUPLmQNDq0RTE1cP8B8U7JQRnwrUlG7ZqPwyBm6zhBrsMDo3i0vujorw4oYkoNXRFNV695HQAVVP0CnDrfQTkVNNVXOyG8wP4nhmmJNMBo+mqytf6RlVrqOwfbSTZWXjwZ7ovAby3y8Sw9dyFOlQCPc9vWPFVS/pmUO+gAzheX",
+    "max-score": 3
+  },
+  null
+]

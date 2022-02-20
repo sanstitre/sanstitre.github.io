@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 4: Image",
+    "short_description": "Où l'on renvoie l'image d'une liste par une fonction",
+    "stars": 0
+  },
+  {
+    "id": "06_04-map",
+    "prelude": "",
+    "template": "let rec mappe f l = failwith \"Your answer\";;\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction <code>mappe f l</code> qui retourne la liste où la fonction <code>f</code>= a été appliquée à tous les éléments de <code>l</code>.</p>\n<p><code>mappe : (&#39;a -&gt; &#39;b) -&gt; &#39;a list -&gt; &#39;b list</code></p>\n<p>La fonction <code>List.map</code> est implémentée en OCaml.</p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "1YoueeKhvCt6iebHALMq0SYPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbe2//jDuOTYdv40xEJ2rtFTWbQNaTAIj0cVEo+EuwMsOTqJoTwUloO1Iw8o2XgYW9Sb+QNKUv2/PGfLQ4XWHTilBv+SI7V7BQ/qcwAEFjwami8lbiCf8ahjcKDC7j1gCzWB8JAQDV5EmGR/wEGx2GPbc68q7QTBLYMc43X8kw0HezDH4JxctHyqo7KF4jRG7IgahFi5CCWI2zAr2cHXsiA/xd5xmyFTutkGdPFU3lATE0IQYzc48lB1WssBtMscPS/yxfgz4VJUQBLaZRG+JnhelQBT1LvGngvEcI+DeolKES8k8E55Y09s1S8o1RRVpj1LIOatS+Sxmz6EfLPTTauOzYhdlkmAyNgX8d5qZ11Iul3tMN5wYY6jYIYyl4biBWCG5M54GCuf73p==",
+    "solution": "CPC/pVDpOEukz1qe/im0xScBUGYRGVRYPVNZFVngqhFqdztcVTm0JAghxLKc5JhKoDTI4m2xdPO6Ut1RvzjXf9tjGEs7GMsKj+Qfe1IAN4svV0d=",
+    "max-score": 3
+  },
+  null
+]

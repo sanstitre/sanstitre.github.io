@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 6: Occurrences",
+    "short_description": "Où l'on compte les répétitions des éléments d'un tableau",
+    "stars": 0
+  },
+  {
+    "id": "03_06-occurrences",
+    "prelude": "\n",
+    "template": "let occurrences a el = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction <code>occurrences t el</code> qui étant donnés un tableau <code>t</code> et un élément <code>el</code>, détermine le nombre d&#39;occurrences de cet élément dans le tableau.</p>\n<p><code>occurences : &#39;a array -&gt; &#39;a -&gt; int</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "gzOCjWAEqv1ECWhc7FPrn7YPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbe2//jDuOTYdv40xEJ2rtFTWbQNaTAIj0cVEo+EuwMsOTqJoTwUloO1Iw8p1WIoClHDWA1L+dMgPXaKEND0NTi5Guxj76E+BCo4zgphZjgyLryetYMWcYHDecAhoZmuQ+Yr+YlFNNo/7RQ6nA5xECfqmjSCuW7cO01wEYjOddMDihmDNLegaYiLvxv996QCgOYnqWSQZQH9ByRzSbWej/Bsku5oC/VeIvHrdPFUWjEuv4wV071HtnklNu1t/IMFUPFy6hJOVGqpHF0rsVz+JnhelP+FIzhZeYrD/SjQgZ2Fxrx6hTFoXAQIIRRQ1EQYZxtLIOewBPVl06lg8YebiuODoOcEq6WRo+33mr9aCALJifuJCJoJYSBCGChzJV14IRTDn3U3VUrrmU3cgAWzKBdJinBS0rwifTo0c5jBE5AgaA+fwcd1OoE63v31CCMnlmf2wvVOy/nY/s4RY4nJgkFO6z7YZCBgSUEw1F5Ee",
+    "solution": "puMi7MN+3S37PuZygUay4nJBCABFGQQm+RB2UESgvg6qr/pcBnW2XjNhgOKXbbNz7j+UNzNqfuK6CgYRpiyFaothT6QtVcJD70VnaIREKc6oTwVP7PVRaTJ2XcFC8CLBDMa+vZ5KWLnTZGaTVSoIbePYlEjQEDbwwA9DohfVi8jOcnDYjDM=",
+    "max-score": 5
+  },
+  null
+]

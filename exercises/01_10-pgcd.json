@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 10: Algorithme d'Euclide",
+    "short_description": "Où l'on revient à un des premiers algorithmes décrits",
+    "stars": 0
+  },
+  {
+    "id": "01_10-pgcd",
+    "prelude": "\n",
+    "template": "let rec pgcd a b = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction récursive <code>pgcd</code> qui permet de calculer le plus grand commun diviseur de deux entiers.</p>\n<p><code>pgcd : int -&gt; int -&gt; int</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "9W/kn2DqFVj1rPJDQGn7enYPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbe2//jDuOTYdv40xEJ2rtFTWbQNaTAIj0cVEo+EuwMsOTqJoTwUloO1Iw8p1WIoCyDnEC2WOa2kRFqW3YE0gTmFIbqLYppXFCTbwwEkMkg8PrWjS4GK2jNlFQM8PspxPWOjiEQADCFgUFkAyRBEEAKyhoDqIAHMRLgZRO80guKmudmDNP0gaYiLvaOY+/prjAZ3bQ8ZgLE5fn9e2cH496BkOdyE2lBrbhRTq+R/CjCLoCIRAjxzwuooXdw/5YvpM3Qjgrh8HC1VO+r8iGUmwvhfn+JAgOIeQ/9h9nM4eU91UuqYpBDJ2Op==",
+    "solution": "fYq2mG7HoS+tYunwfVUNgGN1ZlpRUFdZYVERCRCwfJRyr5McSWDLVyMtg3ymbeNy6iCU2nIpr+L5Vs9ZhjyEq5AaKFF7V1wYmPRVeYQAZPxhCJUOp+kRa8pBXwlM9XLDAca+qcAOPLmQNDrWAjINbq8Bp90ACp7wsElYpYeAcHbPmxyMOtKGYeBjrrjgUle7YpBNRFMZVFYsEFA1G0DC",
+    "max-score": 4
+  },
+  null
+]

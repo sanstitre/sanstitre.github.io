@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 5: Années bissextiles",
+    "short_description": "Où l'on détermine si une année est bissextile",
+    "stars": 0
+  },
+  {
+    "id": "01_05-bissextile",
+    "prelude": "\n",
+    "template": "let bissextile annee = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Une année est bissextile si elle est divisible par $4$, sauf si c&#39;est une année séculaire, sauf tous les $400$ ans.</p>\n<p>Écrire une fonction <code>bissextile</code> qui détermine si une année est bissextile.</p>\n<p><code>bissextile : int -&gt; bool</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "entk5v2x277yEpcEVR+fRnYPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbe2//jDuOTYdv40xEJ2rtkTWbQNaTAIj0cVEo+EuwMsOTqJoTwUloO1Iw8p1WIoCyDnEAsSVt+k/FumQNDzRBzI0qf81mQuECTbwwEkMkg8PrWitP7LWukwzN4N9S5l+IqU4EQADCFgUFkAyRBEGAKyhpTKQQTkVYIUYN8+iq+aRhnDENOcr3zqnr+FNnQGnMJ3tU71TLE5fn9e2cH496BkOdyE2lBrbhRTq+R/CjCLoCIRAjxzwuooXdw/5YvpM3Qjgrh8HC1VO+r8iGUmwvhfn+Oge3MWyESkRdjpGVVJrs/hpBDJ2Op==",
+    "solution": "qTdnNjpx9NcVihyJHoJ1SClPCA9RBDMZ+Vg3QRCohI/kcARhVSjUGiNtu0C8baMwoBfU4jNnfvK6AhURvzuZdA2mA6psVIY+z3RadIQQZPRoDctB6PZRdXMRFtoS5SKYXwqKcN//",
+    "max-score": 15
+  },
+  null
+]

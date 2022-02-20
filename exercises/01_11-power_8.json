@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 11: Puissance 8",
+    "short_description": "Où l'on manipule les définitions en OCaml.",
+    "stars": 0
+  },
+  {
+    "id": "01_11-power_8",
+    "prelude": "let x = Random.int 9 + 1 (* not 0 *)\n",
+    "template": "",
+    "descr": [
+      [
+        "",
+        "<p>Supposons qu&#39;une variable <code>x</code> de type <code>int</code> soit définie.\nDéfinir une variable <code>x_power_8</code> qui utilise exactement 3 multiplications\npour calculer $x^8$.</p>\n"
+      ]
+    ],
+    "prepare": "dqsXaqIxEc+F/ytfJBsM3SZBHp/VXFcQJkVCFUTou16jepkwHDCXF8Agb3Xns3Nq/HHGP81crKLkEPMRx7q1bp2zA5UpU1VA70tge2BII4IaGc5N6OFRdiwVWhlOoWqUDNKZqIQGW4KDNGfACyVIrKz76E+BXkitwBhYiIaLrzylji43lQJ49fX3TW9gWHFdLQUCARcKXFUq0k60W3ixpDKQ+iEQNNtRMTXhhOzxhmiEZsEgYjLA7Ol+8RGvKgjbSmZ+UTtQzpqAr8na6EhzqnQCpRm+tpzdN/VPd5==",
+    "test": "tLPQnXg3Kq0Gw2pDKkNTsnYPTTgUSVZLPTxeWVXsfMAnr/pXVWCVHThsh48rba9coDX+PShywq0nXcQRtSr4sEJ/TRliRMcEoaRkgKhvKL1/TspC94pDfHl0Qs5VjWPQQI0pa2A7UbbD2XnWTm94tuH17E0xR9Xzc69NogbHi63mwtGHNjQwftCX9Bl6OE8y4zsNTHo1S9xxVkQVGOf57WbjQVQ0JwQNP8ygg3rbf5ur3NEuYn+qd4V4lR77NujbQ9lCGCcAnVy2sTGg6HsOdyFO/UaBooT9+FUUuAuY1YQUlw3hiEdUwcBX2J1KMUv7dwOEMtRTQ+zzTQX+nhmqFaa8/Y2bK5mvkwbQQ8xsTvhsB8IDVjZQVmlQSRpL9b8IOewBPSE/5psm3vOr/aq8X1RJ/BcJWOv7cRvKR2kckrpL2lA2JjaHTM7cM0eQ4m3cPRqBBxecU11gAUaCQs6tlDj0jKWqHkyu/WZEnlloKND+7IQc5UJ0ebt4AYzp8xBhwe3V6QwqPPH0/N2KITZLgnhAAoURTVBULEMRTFatfIVrc6VlBSnSG82jucGc6rNAe8SUKnY6qsimGwdRjSeDgk5jSodj0YZFne9vx2BTZOF0ZN9K/0NZsToIPN6Cpz4QPdz4uxUDQumY2W7HMGIJsLy1iTyCQkDvellPoxaL7intsgXTOi9euL5=",
+    "solution": "taYrBhjJPrM9Ocqxsr6lcjNBAQ/FGUFzOVcGUELGbt5zr69cXjCDXmxj6fncsfZloGmuLnp/uaD3Sc9MxyPxe5k6RpM2AxYB7+pAq1sXI+AOXJUG8g/RqGQvRw1VkHDeVJqQaY5pRqOH1WztWot=",
+    "max-score": 2
+  },
+  null
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 6: Implication",
+    "short_description": "Où l'on définit un connecteur logique",
+    "stars": 0
+  },
+  {
+    "id": "01_06-implication",
+    "prelude": "\n",
+    "template": "let imply a b = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction booléenne <code>imply a b</code> qui, étant donnés deux booléens <code>a</code> et <code>b</code> renvoie la valeur booléenne de <code>a</code> $\\Rightarrow$ <code>b</code>.</p>\n<p><code>imply : bool -&gt; bool -&gt; bool</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "V2rPJQICFVCQiP/p79LTxnYPTTgUSVZLPTxePkmdqM6bh5RqF7zIG5owu0GXbbNl5W4AACUywOHkFwZ4iTyxapViSodoRP/You5vr1kPKs6oTwVPruYFgSZVVJ1NiSKJXwrYtwdDFuHONHz1AHlklPCI6E+DQ/8gfBROxdrOcDkEmId/GGZfAdS8sULAPMfzJ9kNGENMXBBnEB/BQrnsoDqdAHEGJ2JE1iDue4Gxw7mEYMYvJyqoxv9ZzFio0wrbBH2OA71ZbnG8rDvg6A6sdzo9/UbSc5XD06BF8QeFIrQ5t2uc9RoCphNk2Zx0+D3grMiHDYFIWri6M5i+yhfUXRuNynUC4/9Dn0j4O15soLYoA5Q4VGYIMp==",
+    "solution": "oTEVbVXK97KghdVU6n1vwzNBRQJ3TR/YYBB3RoDep5==",
+    "max-score": 4
+  },
+  null
+]

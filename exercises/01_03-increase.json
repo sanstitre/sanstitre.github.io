@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 3: Test de croissance",
+    "short_description": "Où l'on écrit une fonction qui teste la croissance d'une fonction",
+    "stars": 0
+  },
+  {
+    "id": "01_03-increase",
+    "prelude": "",
+    "template": "let increase_between_0_1 f =\n  failwith \"Put our answer here.\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Ecrire une fonction <code>increase_between_0_1 : (int -&gt; &#39;a) -&gt; bool</code>\ntelle que <code>increase_between_0_1 f</code> renvoie <code>true</code> si et seulement\nsi $f (0) \\leq f (1)$.</p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "3feMc9MbKBxXwVq2iERWKSYPTTgUSVZLPTxeWVXsfIFkaAgqGGCMFmItu0GXbbNN5W4HP7QifvujFg6Fu7qbdARgUBp8RMc2mPkVod6FMPI/CdY0p0sYqCFaFs5LijTLEs0+6qwPFumQNDryCz91bqL66ADIWU0cwAhEmI8FcGwcvtGhQVFHSUP+FgS3DVYcJ9FPC9RXGUFwHQdVSLqmh8rfQTkVYKd+KnnsuqnkwnCQ4NEoYnW8cr/2p8r7Kg3bQ8Z6H7ZV65yPxTHsiABweHFDmUi+zVGdPFVud9KROJgvzcvw/RoCpgZ62ZA03A3l8gyeBdZKXO4iGTP+6MK6+XjoogJDS6ZMFhMN/JYyVnk8TFNMWF2NEG92DoVScv3ERwBBPV1w/Rp6P3mabIS6ZZB8lTxsD4u2tFimE+JklPtMLBJeY6DcIYyl4bjMR8Gd1R+VQsbmC0Uy4o0YQwEvp6XVjvXQQ57diWpnbUdoN2D+oMES5QM1v0/yTIzYnfBCZuq+eQd30UEC7UPumScXMD1YM5cZXFwS+VN3UVXGvZsqr6VhB8TS2Q==",
+    "solution": "dIpNdF1nrQQpf887wRMiXDQECAJrCWYI+VYRCDvgfIhev9E6SGC2XjJS",
+    "max-score": 2
+  },
+  null
+]

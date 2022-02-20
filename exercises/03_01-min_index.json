@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 1: Index du miminimum",
+    "short_description": "Où l'on renvoie le plus petit indice où le minimum est atteint",
+    "stars": 0
+  },
+  {
+    "id": "03_01-min_index",
+    "prelude": "\n",
+    "template": "let min_index a = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction <code>min_index a</code> qui, étant donné un tableau <code>a</code> renvoie le plus petit indice en lequel son minimum est atteint.</p>\n<p><code>min_index : &#39;a array -&gt; int</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "kErNXUo4XR78oy2Y1IuETnYPTTgUSVZLPTxeWVXsfJsfcoFoEDK9FyN/6fncvKJs/H8RACI5rOPhXh21fjXxeQstRlsmEN6GnKpAqtk+I365XwU15PhBdH9vXgYWrp8IB1a+uwECRqCVZ9SVTno7bqD0oQqRRkDWgRd3nJKOvyDSV02ABXF2U3+gZVombPRMK6tIV5AJGUxxXUFZV1+r6HTeFR2aLJhL1nqth3jiwyKe2gR7SXLvd3AS7ViyVN0tEH20UTo2mlXjwm+ipRwkd7dDkB3bhB8z3UdHnELCYd9QkgbC9p2Xeqx3OcNPMWKjs2nEAc/ORbusH5yjjxewFgt0rkYP4kEEr09m+8LUm91iQUdvRF2+TSB4XpdQraP7OewBPVV5jkcm3KjtqZ7tZIEl/8IvPJXueor1S+Apq0gCN5JRY6CGChyl4bipRTnz1UnVGI8yG0ooAFvMCdFrpUDPyffEC/KdzXwu66toHKO5m22I5psxwYgNTIyL8qQczoqIEo6rSobIajg414TCUClbXDNQX/6QJlNF+9PjwJkqdpgm4jD0XiNhu+ncbbM5oDTq381udKLxEYlRhiyFaotjDlc7W164cNgaeYQAZPJoTwVPp0NRqyE1WK1Lij0BGJypkNBPFumQ+z7SAzEEqfKS8BXAR9X/hRdmpMK9cDj0Gd5TTCtYSa3gOlckg1UF1UEjNllIA5snApxBCfnlsSDBHSoO1tBM+Gnjq3GGbFrYJYcs3GHosuwL6Wm4Ka3UQ8YCUWIQ65rJcHas6FQ6xSUolovPdAXk1oswnTiQZ1UJkYzwuooZdIV51wpBGl8fdI7ERxELF+z9TUmnmsvsJgs26FpN4o5Kw3sfSDKs/RdvDo9oOo9ZGW9QERUQr38IOewD1BprwBYcPO8lqcHKIMQl/HdcI+qqdRO1Qe58oPdPZ9hUMGaAAvPl4bjEAGTn1UfVTdGmDasgGpmKQrwZjFGVmb0CQQ3ypmxwnFtaX3H/6wRXiXYOlq61QwqQyPxq5A8GBk1aF/itvDUD0sjQZDcQQkdKCo1L15M4Bprsgsl5u9dxCRjzXoNSu+ncbbM5oDSU4jNnfq09DIkrgHeZaRZaTRd2A4/KmuUjxc2UGfEbAtA07Pp4/8oVFs6C9SKEQJq+a2AlEb7JL8rQBiA+buH+k54YCo7iwAQCi0+9cDj0Gd5TTCtYSa3gOoNaf1V5K5dJCU90MmBwEBEVEO3e7X0vDX5H3sMMM8XchP7wyGPNHwRaYiLvxvF4jRG7Kg45BXNMSiYQaXDVdmevyp1mcWwJml72m7nWPFU4dz82ZcBA9cPcmWUWqINo0fp22BrqqNnEJrE6F+y/H68jzMbf2McCskAE0/tAcawlVX44n9piQSltEVcMVj9YGBU2wdLIOewBR6Ahy5lpM4ewprv3C5==",
+    "solution": "IAECut9MA2b25Xa1i5Bk1HguTUo2XElZJBAMFULdut6fsE9sXGC+ET2hgOGcgrNn5XKU0jMewI76Xgc3dCq3q/djEkEjXhZvjfYbsIwMI0pjGskP5LN1qCkVUw2x9SKEQNK1aZFBHqXZNC4TTyoIuu8Nn9+JR6WmrUlN6dPHaSZtDRrry/6Pf2i/OgyCTixk3GsNTBBQVDM=",
+    "max-score": 15
+  },
+  null
+]

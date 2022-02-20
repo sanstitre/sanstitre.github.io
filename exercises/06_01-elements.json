@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 1: Éléments d'une liste",
+    "short_description": "Où l'on parcourt les éléments d'une liste",
+    "stars": 0
+  },
+  {
+    "id": "06_01-elements",
+    "prelude": "",
+    "template": "let rec dernier_element l = failwith \"Your answer\";;\n\nlet rec somme l = failwith \"Your answer\";;\n\nlet rec est_present x l = failwith \"Your answer\";;\n",
+    "descr": [
+      [
+        "",
+        "<p><strong>Question 1.</strong>\nÉcrire une fonction <code>dernier_element</code> qui renvoie le dernier élément de la liste en argument.</p>\n<p>La fonction devra, le cas échéant, renvoyer l&#39;erreur <code>Liste vide</code>.</p>\n<p><code>dernier_element : &#39;a list -&gt; &#39;a</code></p>\n<p><strong>Question 2.</strong>\nÉcrire une fonction <code>somme</code> qui renvoie la somme des éléments de la liste en argument.</p>\n<p><code>somme : int list -&gt; int</code></p>\n<p><strong>Question 3.</strong>\nÉcrire une fonction <code>est_present x l</code> qui renvoie <code>true</code> si et seulement si l&#39;élément <code>x</code> est présent dans la liste <code>l</code>.</p>\n<p><code>est_present : &#39;a -&gt; &#39;a list -&gt; bool</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "xVVKjaOjzIRK99D5HfAMZSYPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbgB/6jD2MCknhsz6KgoJc7rVmo2mUQUuXd5LzOgaehQ0ZJEbCsBPpa1UeyI1UhxckGeBD2fUv2JP+eDfHTqTTjUNv+Tip6PPSEH5fpMmzLTPtinySkmB8JGSzlrgR3YTxGxkYlFNTGx1TUBmEF60RLz95W8rQTBLYJIRJpWH60iehnDENsAfMTn8gaM5yFiyZsLpF8Qx3GIQ65rJv87xn6wpjF6O/UaBtnuHQS5djEKYCKhMixec/R2TewNc+JYpIl8yjx7EN1RIQ3DuAlnBtIfA3LZRDg3C/g7ESvRDgkjYWTV6QVZM1/Z2XG9SQ/w2cKiKOd2NFio5jkdyP4ehpujj0x25iTAsD4q2hB7YWOohpdER3UhEN/yJR+P24bjEAGSJ2BuMV1HfHb5dGVbLFwEqz9DS/KzsZTbdlDQellk7Be3cmYZtvAtVv+RNEtfOpOhwoCpP/4PCi+o/9HGDXYwKHl9NCB5RXEF1OkNYR/XGbd5z9EEcJ7WYCmxihfnk5ONU5WmA4jEDqb4nCgB3eCrEwEIlA9w71d/PmPRcvN2UGfI8CdYK8b2TqEFZPPFC9SLQB17O5wY+WPbE4XS2MCMire4JmQ8SXjuffpEZiYLBr64HBQbVddKzl9vlFv9UoB1k0/cNBVcNGVU5QlUVH+4x7yTkDUBaS2s41i7suq7xskbUZsEtJ8nbxIsjjRG7Kg45BXNMSiQfuprJcHasap6iayEkfE0+zX7dPFUWjEKZMh6AhMqzp/QFp29qE4wPMU8fdI7MVhlL0uraX/3Ysx4qFd1FDgXmpsi4CrEMl9nRUSgpPEQoOo9ZEEMfERUQr1KE4rgBNVo5oyVm3PewfYSoZZ26jCs8ExvIxVbYQqZUoPdM4kYIHVPOTtva4feLRCGNMBiBTfHTU4wwGo0QSgEqzzv0jqiQNFP9/WZhz6olNbqp9hQDjUgHfrl3C40Z8rdcvkkKoeCL8wJ6a5mU2p==",
+    "solution": "scA68RSig7qM/gGCWCIUTnYNCAFUVllZJRAMPoCgwY/qbQ9cGWCMF71p6fncwbN0rTSZYWMlvbqsCJBFf7rVl5s/V6R7RtcPmPZVeYR1ZI9/MgVCieMF/8oVSs5W9T73QMu+dMgPUqzC3yKWHUhNsuXFpQ8VClSnqj2zoYe+cGbbkyX3C0ax0x73pcEeZlZcI6UOBBFVGUh5RF9aELzlnEDHQTBLYMsk1i8ouOyebTuEZZRn4XKbxvw4lULsZsueQz1LSy9fuE4MxHbapUN9snI+f6bTc5Lg15EW5EL2Iw/vzcvp9RsVcNBhOhQGZQDQdI8YRqwjF+SfTQuI6cjoFarVKYlSfLcf7Na2mB9mR7k8GURMTUUZESoDRWwAffj04qQVPQk57/ZxYh1=",
+    "max-score": 20
+  },
+  null
+]

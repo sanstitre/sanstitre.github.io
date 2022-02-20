@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 4: Recherche dans un tableau trié",
+    "short_description": "Où l'on utilise la recherche dichotomique pour chercher efficacement dans un tableau trié",
+    "stars": 0
+  },
+  {
+    "id": "03_04-recherche",
+    "prelude": "\n",
+    "template": "let recherche_dichotomique a el = failwith \"Put your code here\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Écrire une fonction <code>recherche_dichotomique a el</code> qui détermine si l&#39;élément <code>el</code> est présent dans le tableau <em>trié</em> <code>a</code>. Le tableau étant trié, on utilisera une recherche dichotomique pour obtenir une complexité logarithmique.</p>\n<p><code>recherche_dichotomique : &#39;a array -&gt; &#39;a -&gt; bool</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "akLBG+CuOQoPE+IzP+2oXSYPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbgB/6jD2MCknhsz6KgoJc7rVjB2hQQUuXd5R74Z9ohQAZPJoTwVPp0NRqDpjWZpH9SDWB27SrIIMXqzq1HKQBih1s0iBkRPECQfDwEkM71rOcDjpAxRXxKtgBlcreGdxoGwFYppYAEVQSVUtEEVQQbjs8DqmDjlANNtLK78xaePghkiIHwRaYiLvxvF4jRG74cLsF9/EBCoTl9LGr5DablE8tm5Ao6rbhBep+QF4/pneIxRAzcuclEdWqNAlOf6KZRH5dMHKExFKRaq/FEnEkYfc1bQC7Uz5yTMQVoPE0ibNP5k8QUkMER9ZGWsCVFZYaLvL1adb3Rp89oAyNbD/eKfzIrh2/Hc81rudg6vXCeIBqugCN5JRGR8cVg8q04+XGiDwZoLxQdG7WK1W4B0YQwE76E856rmLXQjqnnA5oRNMRPuz5ZctvAtVv+RNTIGplrUzx6zXTLTE+5NzYrgd2wYUJGNBTUpRGRF7NQEKBprvdcp5uBkAWWDWTXw86hWcbbM5oDS1BDc8d0CfTMIFrTiLplhjG/6gOvdL74RaeYQIHfg5VY2Ulv6FwnxJ+cRC6Cr4+uL+a2BPFtHfNDq+ZRtEqfSI8EbBF8bwwBhJi0T1tWe/TsBXpLcWXotqqTtAiycDK6UUMkJRXFx7EFJ+VPnX7W8rQVlkYJlKPX7/w0ijaQuENJRaGD3ngaM19ELyVI0D+A==",
+    "solution": "6HB6uULKDtR6duWusoaYdSAJA663VFBIPFURQVHefIkir/pXVWCXG72hfvn5beF/58SEVWNnvbm/XglRqnqFbpQjC8ApQt2S6e5fxdNULPI/Dc2PmLNAsRZVFw9MkSLCQI0+ugUJFqvR3G7WZTFItef76E0WQkm/hUkE7InOfCDINHG9EI/L8Cmrr04nY2voYpUCZ6EZGR9/VUUVX0yknDOeB8k3YNx03y77uKaevzerNJRaYnKhfbdLw/8t4g4mWTZSAns3lyTAr7qs6U2ad7E1iAGVmB8n+FUXyFzeIxRAzgOelBsXashd2swPLE7aqI8QDtRFF3b9VkGJycn63OIkN+lQn5H4Y+Caw4Ili4wsSQBFEQUZXCUQRVkVcdLIOewBPVUyjlVr3OCyuNH8IMQllTMpNbuzxUXEE3dz6wRCN9Y3LFW2IYyl4vrr",
+    "max-score": 6
+  },
+  null
+]

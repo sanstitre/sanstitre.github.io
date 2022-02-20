@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 15: Nombres de Hamming",
+    "short_description": "Détection des nombres de Hamming",
+    "stars": 0
+  },
+  {
+    "id": "01_15-nombres_de_hamming",
+    "prelude": "\n",
+    "template": "let rec hamming n = failwith \"Put your code here\"",
+    "descr": [
+      [
+        "",
+        "<p><strong>Question 1.</strong>\nUn nombre de Hamming est un entier qui ne comporte que des 2, 3 et 5 dans sa décomposition en produit de facteurs premiers. Écrire une fonction hamming qui détermine si un entier donné est un nombre de Hamming.</p>\n<p><code>hamming : int -&gt; bool</code></p>\n"
+      ]
+    ],
+    "prepare": "AJkvSSvxNEseE6gP2FHCD7kBUEpT+UoN+U/3QEKgvh2aalFkEDK3XV9=",
+    "test": "9+TI3ZREKhmF8zZgF712dnYPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbgB/6jD2MCknhsz6KgoJc7rVmo2mUQUuXd5LzOgaehQ0ZJEbCsBPpatQdXE1WJcA9VbI+wq+vZU1QtOWYXWQGi5HsIbZbp4GS/myco9mjxTCxWzXrdM2/DBribul4z/ODRqsNlFAU6F0V/Y/0TtVELyxnyPeDHA1Lwo2WX7suLj/tGGJZN5fMW87gPQRjRzuKgv5Q8gpECoUnU+HqTGg6BFlhyFF/ViIryrdPFUW65XU0JgR7aDclEdWofl3OcNGGjLfdI7E0MkOQ+ztREnUhYel0wr5dzXRYmrTo4FKUHhNUvN8ABhY09wYVnBESGwTd+jL1LxC16E/wBh5LKiMi4r/2YxlyHZ84aSIxVaZE+IueLhH091DIVyVTq0/4gCr",
+    "solution": "2xuDhXaGm0E+CpgzD4u/IigBCo/4W9kQJ/hePEngb15jwEFwBmW32Vx9u3KcuKs/78T+4nhcuvKmXdQRt7r+xEJbQopqW16M74pohwYJTstsTssP/qtUd8p0FwUNkSKXQI0+e2BCCLnY2X+3BydPbq8G7kWIITmkwANMixPLr8klmcvr+YO0tUcKUnsJvvJuI5pABVc3GREyHpQ1OwClnESfTCNVJwxTIDl=",
+    "max-score": 10
+  },
+  null
+]

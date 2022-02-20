@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 1 : Listes : Tri insertion",
+    "short_description": "Où l'on implémente le tri fusion sur les listes.",
+    "stars": 0
+  },
+  {
+    "id": "07_01-tri_insertion",
+    "prelude": "",
+    "template": "",
+    "descr": [
+      [
+        "",
+        "<p>Les fonctions suivantes attendent des listes dont les éléments sont de\nn&#39;importe quel type permettant l&#39;utilisation des opérateurs de\ncomparaison génériques (<code>&lt;</code>, <code>&lt;=</code>, <code>=</code>, <code>&gt;=</code>, <code>&gt;</code>). Elles pourront\ndonc manipuler indifféremment des listes d&#39;<code>int</code>, de <code>char</code>, etc.</p>\n<p><strong>Question 1.</strong> Écrire une fonction <code>insert</code> qui étant donnée une\nliste supposée triée pour l&#39;ordre strictement croissant et un élément\n<em>x</em> renvoie la liste obtenue en insérant <em>x</em> à la bonne place. Si <em>x</em>\nest déjà dans la liste, celle-ci sera renvoyée telle quelle.</p>\n<p>Exemples :</p>\n<ul><li><code>insert 5 [1; 3; 8] = [1; 3; 5; 8]</code></li><li><code>insert &#39;e&#39; [&#39;a&#39;; &#39;c&#39;; &#39;g&#39;] = [&#39;a&#39;; &#39;c&#39;; &#39;e&#39;; &#39;g&#39;]</code></li></ul>\n\n<p><strong>Question 2.</strong> En utilisant la fonction <code>insert</code>, écrire une fonction\n<code>sort</code> permettant de trier une <code>&#39;a list</code> quelconque par ordre\ncroissant, en fusionnant les doublons.</p>\n<p>Exemple : <code>sort [7; 8; 5; 2; 8] = [2; 5; 7; 8]</code></p>\n<p>Indication : comment obtenir <code>[2; 5; 7; 8]</code> à partir de <em>7</em> et de\n<code>sort [8; 5; 2; 8]</code> ?</p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "tAjwKepZikT5LzIwjMS/S7YPTTgUSVZLPTxeWVXsfMAnr/pXVWCXG72habimqgom7j0AO72nwbn6ExERx8+cq9IjA5I8X2ZHmItmwN2UTqJoTwVPp3l1cXIvRZEYkD8JDuH+a2BPFunO3XvLMGIBxLWSnRfuCoWwwEkMkha0wGe/Gflwen7pBeRRLzC+tL/VMRUICAsNSlptO6EVELyxnG8eDGlZJ+QWPSnswLTevzeEHwRaSXLvd3QLw9Py3MLnF8Z7MU5Q69u+xACboUhsw75ok53EdBvd4owSyTiQ12BAbeuc/6wYqN5cOcgRGl8fdI8a0IELF+z9TTaM7Nvc1uFioWiH03gCeAUrYqnewF9iCAICCotZAz/mX/FVr3vB239E0pF7jnJaUxStf0fp2LsnpTE5JvPsenDL0rNtkq1MZVYrMVaKXsjcMKOrAGTn1UfVTdGmU0oHUEKBQxt7mQePjqDOTkan6DRiz6o/SP4r7MlIkQsZhP1ZMYyJoewrr5bhZgZEz53lDj9/kPTeC9/xTUpRRlwYJEB2UEK8prEer9EkEmWVXisou+G8l1x5oDSU4nhmqrHwXfsQeGaYdloaTAV7AxZ1pKAioflAZPJoTwVPl0N1x8o2RZ9PpWeBPcKUv2BHHeDQZyv2Clh0s+L1pQKBGoWhsERzxMrOcDiaA3p+qGCELZkhY7XOevQ+49FYTBxZ+k5yVFgYHqCzyDrqQXQ0SqJjPmiguPHea7CW22xeHCG/dPU+yRHtKczbCi5x3EtYf9L+xHG8lE69qyFGgpfPcoeoM6oY8EL4Kh6AkcPllGUaqNAlQKg/GEH6dKKERxELF+yXCAa25tGfFcZV/jXIKMJTsFNIN2Ssq/MtDk2OEQIZ37ZUVBUSfv3+0e6BQF/Kd/dyP4ehpujj0x25iTAsD4q2hB7YWOohpdER3UhEN/yJR+Pl4bjEAGTn1UfVTevjB3UdTo+RDMU7nAyI8qi2UR0kyzAeypZ7HPvN7IYVm//Bvhg9TIyLlLNhtU4c2ZZEz53lK/NKtb4oG9/BTUpRZDM=",
+    "solution": "8mktbrR9n3zKyhv+DRTKXzMNTVERVF6NK/5RWRDrxZom9EEcVWC5IyNktfmGrwhKoDTI4nsxdNj6CJFUeCq4q/djQkFqDxZHxaRatYRI4r5cTtIH6PkRcDoLFw/CyDnEAYHAs1wVWw0QNG4TBnsSsqCFz90JEQb6eQM4mJy+cHmDNDHQuTv5phbU82dNBY94MAh4GBFVGQRwXVBBUaHx6DqsCG92Sss41i8Wl0ijaSCaS0gaYnevfusF/RGqNZ4iDGVHAmYQm5rBwmCalAAxbksV8zU=",
+    "max-score": 20
+  },
+  null
+]

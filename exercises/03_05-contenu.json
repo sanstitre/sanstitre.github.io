@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 5: Supports de multi-ensembles",
+    "short_description": "Où l'on détermine si deux tableaux contiennent les mêmes éléments",
+    "stars": 0
+  },
+  {
+    "id": "03_05-contenu",
+    "prelude": "\n",
+    "template": "let present a elt = failwith \"Put your code here\";;\n\nlet inclus a1 a2 = failwith \"Put your code here\";;\n\nlet meme_support a1 a2 = failwith \"Put your code here\";;\n\n\n  \n",
+    "descr": [
+      [
+        "",
+        "<p><strong>Question 1.</strong>\nÉcrire une fonction <code>present a elt</code> qui détermine si l&#39;élément <code>elt</code> est présent dans le tableau <code>a</code>.</p>\n<p><code>present : &#39;a array -&gt; &#39;a -&gt; bool</code></p>\n<p><strong>Question 2.</strong>\nÉcrire une fonction <code>inclus a1 a2</code> qui détermine si tous les éléments de <code>a1</code> sont présents dans <code>a2</code>.</p>\n<p><code>inclus : &#39;a array -&gt; &#39;a array -&gt; bool</code></p>\n<p><strong>Question 3.</strong>\nÉcrire une fonction <code>meme_support</code> qui, étant donnés deux tableaux, détermine s&#39;ils contiennent les mêmes valeurs (à occurrences près).</p>\n<p><code>meme_support : &#39;a array -&gt; &#39;a array -&gt; bool</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "QxCl6XJ29B/0NCHUi3ahunYPTTgUSVZLPTxeWVXsfJsfcoFoEBaOXisou0GXbbNt5WCUMWNqfsD5EZk3enX3dBYjGkFwEJ1LpLwVeYRMI+ZoDgVSp2IDeylMGJUDjz3EDwqKaZ9BPLmQ1ySBTi6IgaCY6BLOCkr9sUlIorGOcDlN94aDOnDVV5JLHcmR547n0Q5DGBEICTNwEFV+Xqmmh8rfACZOSqFkWTTxbLjbrjWW2cltJ5iexuokjRHR0sTvCi/MUWwu6yaMuCqs6yEosnI+iACPtlCzPF1WplLn01AFzc7s55wFbZg5O2MnPWLfdNmBF2VlUamvD68A6MCLLiKRsxxeZhY31B57l1vRauAs+lkMER/7HDkJCoVZcemI3r5T4Ao5k9FmM3Phq40cIIZejmM3WOv7xVa0Q4BroPtMY5BeY6CGCc3yPvDUTCG5+l0TGxbmW0UdWA8YStJ8nRDXyhLFTofkiDRJ95FkBe4bp1xS5RxFxKkyTIyL8vwfSJeujV5wkUxPMGXzpcSteH6QV/hKDUV9ZRAAHArTfM5er9EkL8mKRGB8qL3qhP2drT7U+jwwpKK6Xc9Rv/DLuk9/GUBgAwl4kY/meZQJTqJoTwUnfeNRsRZaPJQHoSLBGNfIqw91UdPCNC0gTmEeqeP1mQyPCoiSwD9JlZbOc9oY/+K4Oj+0S6kR0Zb4iu31LAUITBNQVkx/RUIXEMT9h6KfQTlBJY5LDDehhqfqvzbKShYAI8WufbdM8WeoZNquFycNHl5Q65rJ8ivgiRw9rmd+/QfThRD/PF5IjAq42xQBnY7d7Ud0xsBj2JpDTGLfdI7ERM6FVrXoH9f8nhelPVODtIY7ZZAYFUMunNHFqaZ8TFNMGUwYVD/1VGxFr3DBNexS4B5p/oxM0+j9sPLvCtQl/HdcN+atrlimE+Iu/dVKTVgA3QO2GwLzZPyY4W8nC6KGVNCxQf1xCWqRW0t76EC0jqWuEp3ypndvnFlvXK+N6IQciR5OrLc4VgiQzf6ABMq0niIwkUxHMDGM6N+tey6TV/6NZBUZE9pHD5y//1ERr9EcVRioXiNo6h0oqu155WmRLSAer343TN9M7CrXmQ2kV65sXxYDdqQLvNoUZPAAGcA1/4x3d8oGDN6A9TzEIcS3rNBNWaz21USAGzEYs+L1690dBmbAwEkMiYe2xEJL60bIJzC+BHBZEsmY6PfoMBUnHkgVTEl5XkdaELyxnECaFWRPYJIRJi8tarbfr7DJKwQjLS0vhaMNzE77JxzbAH/NHRdf65rJcHj5pUl68SI0oRbOhQWbF/UWjELP11UNng+h5/U3bxVfOcsGMUX9dIDXBdo0W3m0WEnBpxLl09n2xY1iVtBKBlJ9/LXFsac8HpxJXpMLMj9QERVutZOUKvFSJ9RenURyJNC5qYCaMcd/8jkhZu04vETmE+Iu/egKTVgA3QO2GwLzZPyY4W8nC6KGVNCxQf1xT5OEPg5gu9C0jqiQRji5pSdxnFhvWrH9kP/K5XBJqecUEPTCwPQcD2CMhXIwiGA/Sjj2ybbiajNBZpBUTR9RYBAMPoCgrhkqoRNhB8WXCiMYmY+cbfJm9EqHP7leqqq3HJFUhWCXaQknRnh8QcILfZRavcFOZPwhTw6RfeNRoi9NUhxBjHHBPhu+gsAKTqzC2iKAC9g+brrIpReEWV05cp5mzu+9",
+    "solution": "hmnt6Tts7bUoFoQ9LtRVSD2BUGYRGVV1PRBFUEPsfNUefAReVS++EnAcu3imqbNwoCzULSYlfuK6Fw1ex7qAc5sfRkEtXcIL7KAfqsAAYqRoTcoPi+gRiWhHVhFMiW4KBdbSaZFPGemBNHb1ZTFIbqCAmQCBS6r6wQRF72+OtXHe3+mNL8HOh8EKFCRkjRBQMRQIRQxmGR/wEF5VCvTxnXKfS8kE3aF41mm7hq85nSDEN1AfMC0A7Ol+8RHuZ2TnFjUCEHMQoozJfVXs6Ep6wyE+lBnVtlnd06BQjB0D2dFAjwSglAYWx2Bz4wVPIU7mqvKERsZDXOX6TUi28sj5P+/abIQ74cKjFQtSZT0KXEEsB69EEV5IGSk4OoUQr38A1qoB1oxljk18Kr8abLWiIIUz/Dgn4OK8fF0QE4Z8lqBCY91CN6C1FxznPvHXRWiwWlfVTdHfU+Y6VR3RQwx7/VrojqjUAF8gnohellg/D+z9xvhKoFdVgOEAC4+YjfRshCrt6TcrmrJzWVlO0dRZS7ANGBdRTQ5ZPQIREo+gxYZhc6RrVTTJXn2w6p==",
+    "max-score": 15
+  },
+  null
+]

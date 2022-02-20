@@ -1,0 +1,403 @@
+[
+  {
+    "learnocaml_version": "2",
+    "groups": {
+      "group-0": {
+        "title": "Types élémentaires - Programmation récursive",
+        "exercises": [
+          [
+            "01_01-min_3",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 1: Minimum 3",
+              "short_description": "Où l'on détermine le minimum de 3 éléments",
+              "stars": 0
+            }
+          ],
+          [
+            "01_02-norm",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 2: Norme d'un vecteur",
+              "short_description": "Où l'on implémente la norme euclidienne",
+              "stars": 0
+            }
+          ],
+          [
+            "01_03-increase",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 3: Test de croissance",
+              "short_description": "Où l'on écrit une fonction qui teste la croissance d'une fonction",
+              "stars": 0
+            }
+          ],
+          [
+            "01_04-divides",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 4: Divisibilité",
+              "short_description": "Où l'on détermine si un nombre en divise un autre",
+              "stars": 0
+            }
+          ],
+          [
+            "01_05-bissextile",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 5: Années bissextiles",
+              "short_description": "Où l'on détermine si une année est bissextile",
+              "stars": 0
+            }
+          ],
+          [
+            "01_06-implication",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 6: Implication",
+              "short_description": "Où l'on définit un connecteur logique",
+              "stars": 0
+            }
+          ],
+          [
+            "01_07-somme_entiers",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 7: Somme d'entiers consécutifs",
+              "short_description": "Où l'on calcule récursivement la somme des premiers entiers naturels",
+              "stars": 0
+            }
+          ],
+          [
+            "01_08-only_one",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 8: Opérations élémentaires",
+              "short_description": "Où l'on décompose l'addition en incréments et décréments",
+              "stars": 0
+            }
+          ],
+          [
+            "01_09-puissance",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 9: Puissances entières",
+              "short_description": "Où l'on écrit une première fonction puissance naïve",
+              "stars": 0
+            }
+          ],
+          [
+            "01_10-pgcd",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 10: Algorithme d'Euclide",
+              "short_description": "Où l'on revient à un des premiers algorithmes décrits",
+              "stars": 0
+            }
+          ],
+          [
+            "01_11-power_8",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 11: Puissance 8",
+              "short_description": "Où l'on manipule les définitions en OCaml.",
+              "stars": 0
+            }
+          ],
+          [
+            "01_12-nombres_premiers",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 12: Nombres premiers",
+              "short_description": "Où l'on définit un test élémentaire de primalité",
+              "stars": 0
+            }
+          ],
+          [
+            "01_13-recherche_dichotomique",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 13: Recherche dichotomique",
+              "short_description": "Où l'on utilise La dichotomie pour déterminer un zéro d'une fonction",
+              "stars": 0
+            }
+          ],
+          [
+            "01_14-tours_de_hanoi",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 14: Tours de Hanoï",
+              "short_description": "Où l'on visite le célèbre problème des tours de Hanoï",
+              "stars": 0
+            }
+          ],
+          [
+            "01_15-nombres_de_hamming",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 15: Nombres de Hamming",
+              "short_description": "Détection des nombres de Hamming",
+              "stars": 0
+            }
+          ]
+        ]
+      },
+      "group-1": {
+        "title": "Programmation impérative",
+        "exercises": [
+          [
+            "02_01-somme_inverses",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 1: Sommes d'inverses",
+              "short_description": "Où l'on additionne les inverses des premiers entiers non nuls",
+              "stars": 0
+            }
+          ],
+          [
+            "02_02-nombres_parfaits",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 2: Nombres parfaits",
+              "short_description": "Où l'on détermine si un nombre est parfait",
+              "stars": 0
+            }
+          ],
+          [
+            "02_03-modulo",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 3: Modulo",
+              "short_description": "Où l'on redéfinit la fonction modulo",
+              "stars": 0
+            }
+          ],
+          [
+            "02_04-racine_entiere",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 4: Racine carrée entière",
+              "short_description": "Où l'on calcule la racine carrée entière sans utiliser les flottants",
+              "stars": 0
+            }
+          ],
+          [
+            "02_05-nombres_premiers",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 5: Nombres premiers",
+              "short_description": "Où l'on définit un test de primalité élémentaire en programmation impérative",
+              "stars": 0
+            }
+          ]
+        ]
+      },
+      "group-2": {
+        "title": "Algorithmes sur des tableaux",
+        "exercises": [
+          [
+            "03_01-min_index",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 1: Index du miminimum",
+              "short_description": "Où l'on renvoie le plus petit indice où le minimum est atteint",
+              "stars": 0
+            }
+          ],
+          [
+            "03_02-maximum",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 2: Maximum",
+              "short_description": "Où l'on renvoie la valeur maximale atteinte par les éléments d'un tableau",
+              "stars": 0
+            }
+          ],
+          [
+            "03_03-est_trie",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 3: Test de rangement",
+              "short_description": "Où l'on teste si les éléments d'un tableau sont triés par ordre croissant",
+              "stars": 0
+            }
+          ],
+          [
+            "03_04-recherche",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 4: Recherche dans un tableau trié",
+              "short_description": "Où l'on utilise la recherche dichotomique pour chercher efficacement dans un tableau trié",
+              "stars": 0
+            }
+          ],
+          [
+            "03_05-contenu",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 5: Supports de multi-ensembles",
+              "short_description": "Où l'on détermine si deux tableaux contiennent les mêmes éléments",
+              "stars": 0
+            }
+          ],
+          [
+            "03_06-occurrences",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 6: Occurrences",
+              "short_description": "Où l'on compte les répétitions des éléments d'un tableau",
+              "stars": 0
+            }
+          ],
+          [
+            "03_07-pascal",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 7: Triangle de Pascal",
+              "short_description": "Où l'on renvoie le tableau contenant les coefficients binomiaux",
+              "stars": 0
+            }
+          ],
+          [
+            "03_08-classement",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 8: Classe trois éléments",
+              "short_description": "Où l'on renvoie un triplet ordonné",
+              "stars": 0
+            }
+          ]
+        ]
+      },
+      "group-3": {
+        "title": "Algorithmes sur des listes",
+        "exercises": [
+          [
+            "06_01-elements",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 1: Éléments d'une liste",
+              "short_description": "Où l'on parcourt les éléments d'une liste",
+              "stars": 0
+            }
+          ],
+          [
+            "06_02-selectionne",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 2: Sélections d'éléments",
+              "short_description": "Où l'on ne retient que certains éléments de la liste",
+              "stars": 0
+            }
+          ],
+          [
+            "06_03-apparie",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 3: Appariement",
+              "short_description": "Où l'on apparie les éléments de deux listes",
+              "stars": 0
+            }
+          ],
+          [
+            "06_04-map",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 4: Image",
+              "short_description": "Où l'on renvoie l'image d'une liste par une fonction",
+              "stars": 0
+            }
+          ],
+          [
+            "06_05-arithmetique",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 5: Arithmétique",
+              "short_description": "Où l'on écrit deux fonctions liées à l'arithmétique",
+              "stars": 0
+            }
+          ]
+        ]
+      },
+      "group-4": {
+        "title": "Tris de listes",
+        "exercises": [
+          [
+            "07_01-tri_insertion",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 1 : Listes : Tri insertion",
+              "short_description": "Où l'on implémente le tri fusion sur les listes.",
+              "stars": 0
+            }
+          ],
+          [
+            "07_02-tri_fusion",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 2 : Tri fusion",
+              "short_description": "Où l'on implémente le tri fusion.",
+              "stars": 0
+            }
+          ],
+          [
+            "07_03-tri_rapide",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 3 : Tri rapide",
+              "short_description": "Où l'on implémente le tri rapide.",
+              "stars": 0
+            }
+          ],
+          [
+            "07_04-plus_proches",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 4 : Plus proches voisins",
+              "short_description": "Où l'on cherche la distance minimale entre deux points d'un nuage de points.",
+              "stars": 0
+            }
+          ]
+        ]
+      }
+    }
+  },
+  {}
+]

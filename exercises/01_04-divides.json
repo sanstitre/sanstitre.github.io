@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 4: Divisibilité",
+    "short_description": "Où l'on détermine si un nombre en divise un autre",
+    "stars": 0
+  },
+  {
+    "id": "01_04-divides",
+    "prelude": "",
+    "template": "let divides n k = failwith \"Put your answer here.\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Ecrire une fonction <code>divides : int -&gt; int -&gt; bool</code>\ntelle que <code>divides n k</code> renvoie <code>true</code> si et seulement si\n<code>k</code> divise <code>n</code>.</p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "a8JkVK7ACi9SNGabwCjb7CYPTTgUSVZLPTxeWVXsfJobfRUcXWy0Q//hu48hvL245zH+PD1ew3m3T+ZQgWu3dBF74QIsXNN4pLtoohQAHa1/FhcP7PlFqDFLFwEMoSKJXwrYtwdD+g0QNDzXBz1BquX06znBClqrhQNWyOGOcE+o+7UWvOZHMWoLIe4zDbXUYkNEVmtZGR/wGA5ZEKu6loGfQTkV+MJT1jj9sg4ehnDEPIRmYjP87KF4wDrIZcLvQ8hLUXdf65q+tSrSk9Uiwml+/U3AhAXD0oRY9R0IX11IiwzjlAoZbJVL3xA0MRnaxcnN0A==",
+    "solution": "PCIkEFOTq/IfrNTTVF9ptiguTUo4GVRWLRB+FQjgbOI=",
+    "max-score": 10
+  },
+  null
+]

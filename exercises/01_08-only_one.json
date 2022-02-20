@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 8: Opérations élémentaires",
+    "short_description": "Où l'on décompose l'addition en incréments et décréments",
+    "stars": 0
+  },
+  {
+    "id": "01_08-only_one",
+    "prelude": "",
+    "template": "let rec sum x y = failwith \"Your answer\"\n",
+    "descr": [
+      [
+        "",
+        "<p>Ecrire une fonction récursive <code>sum : int -&gt; int -&gt; int</code> telle que\n<code>sum x y</code> calcule la somme de <code>x</code> et de <code>y</code> mais en\nutilisant uniquement des additions et soustractions de <code>1</code>.</p>\n"
+      ]
+    ],
+    "prepare": "B/QH5eBAkfX5Pk9aIyk/yn1EAnNBXEsYPV/3WoDjut6xe6NlGn4o2Tdcb+mbtfZ88mT0LjMgxbm/XdQRgHeZq6xjWkFqDvpL70lge2pA3OooXgVJoeMIqCBLFt/CoWuBDuH+a2BPWqzENGn0DzVIgaDhk5aPXkOycol3pIX+t8kBCR4GukK3ebxa48hlPnz4YUEGBVc2GUFwSRF1XwPxnDrfEip1Mgg43oe7aqbnwjSB3qtqJ7Cucr5Q/oHkYc0vSopCUS21kUf8cHas6Edld7/OmGXuaoTxPFlWllKYIw/AjJKh9pQWsNAaOcwPMpzldMyAAt64XO0vTj+86dr5PUtMS10wFIPveX2fMmtaJNsrQURMEk5ZS8oSQ9FCbKr11qUPPid=",
+    "test": "0bRafQ1mSkfGWyuH2fbWZnYPTTgUSVZLPTxeWVXsfJobfRUcXWy0Q//hu3DhubNl5W4A4oonr40lGgo4c7qSg6JmQQUyVIYWxaRaeYRNJ+YnBwU1/3YVbXIBGs5HnXLBAdb4r2AYXb7YH8qTTmEUbwX+k5yTCoiPfodOpIaKtXNPgHakR6NHQwp/Y1Zll2AeYmgNQQdmGR/wEBEVEPWsyDqiEywV44F41i7suLiehnClZsloNmT9d4EN9Faj00jbQ8YCUWIQ65rJcHjUnkV9s85K/UvStp0l2R/TjAi40skAjwfgzRs4dggyOgIB2U7ww1uXEsNKVqisA5L+ncvePTGl3aVCRlcByzw6niGLjok8QUkMER9ZGW9QEUJYbLm7OewBPVV5joYcUvjtq4q8IMRPbTxpI+q/gFaR+vJ4lrYWN9dCJRDeBhzHKveHRT361Vf1MrrmU0pdCR+iCZFp/Un0s00QHQSdiSxRlldoSPup7MlA5V9Ev0/NHwqLjuoh0whfwp2HD5iSJT0kWMCKZCIGCEpZYzk1MUQRFjTovZpdfUFdVSOUDSEceq7crv298WD2MCkdfNbsXfwEhW8SeREjEk54OxYL74RaeYRFKKElZJVPp0NRqDoVFvMqkHHXA2n4a25lYqzIYDqROi9Juq406A4PCkmygpI3jheNxDk6dHerUpgBQcpyShIkcxolIAQ3HoEJEGRDEBEVEOXxsm3fJGdHLh/4N7D8uLD/nSDENJRaYiK+dO5R8V3t0t4tCi6WFl5Q65rJcHas6ABz6mdLmRbEdAXg3FVT5AHU1sAJkJTylEwFpJhjE2NPMU8fdI7ERx/eRbDvGQyR7IC51/ay0qVOCU9N/ikh6nfqjT28QUkMEWJ9Mj9QWFtfr38IObhE05E4yQxcOay/duW1MusklmhvPLyji5nWX42aiqEMHAJRY6DcDsjsZ3iNT8Dn4FCVBxayU0E7VVbWFrpI6EC0jqbDG/rbb8QellcqDebb9wVWvptVv+QTGMnYjshcILQfiHwsJEGX1T+GPIXEHWNBH5/FZ9s1O9V2QRCovZsqoRJdGnzPB5peg3ybtON87iDRACI6qvLkGxwFvpE=",
+    "solution": "8Nr6k57LiPXNu08Bv4Nv4iguTUoYXo/B+QlRBRDsxIkkr65cECnIG//hu+ncdfwzoGnUYjN7fq0wGw1Runr4eR2eA//qSIdL549zgIlvZPJoTwUK83AUqCkVH25RoGbESMP+dNB3HenJPRE=",
+    "max-score": 10
+  },
+  null
+]
