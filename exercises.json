@@ -153,6 +153,16 @@
             "short_description": "Détection des nombres de Hamming",
             "stars": 0
           }
+        ],
+        [
+          "01_16-suite_de_carres",
+          {
+            "learnocaml_version": "2",
+            "kind": "exercise",
+            "title": "Exercice 16: Suite de carrés",
+            "short_description": "Suite des n premiers carrés",
+            "stars": 0
+          }
         ]
       ]
     },

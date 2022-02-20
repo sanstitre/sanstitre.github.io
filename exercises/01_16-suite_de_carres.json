@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 16: Suite de carrés",
+    "short_description": "Suite des n premiers carrés",
+    "stars": 0
+  },
+  {
+    "id": "01_16-suite_de_carres",
+    "prelude": "\n",
+    "template": "let rec carres n = \"Put your code here\"",
+    "descr": [
+      [
+        "",
+        "<p><strong>Question 1.</strong>\nDéterminer une procédure récursive permettant d’affi\u0000cher la suite des n premiers carrés.</p>\n<p><code>carres : int -&gt; int list</code></p>\n"
+      ]
+    ],
+    "prepare": "t2BRDGU0WxUzz8LBYD10rWN1TUg6TElZMFcERoDfwhobr5/hBnXZ2Q==",
+    "test": "f9PXf1uDxeCBJwlp5aG7U7YPTTgUSVZLPTxeWVXsfIk8aoNbHDO3IGJhtI+cbgB/6jD2MCknhsz6KgoJc7rVmo2mUQUuXd5LzOgaehQ0ZJEbCsBPpaAQezhQR2wCeCfrQJrOrIM0+4vF3y7HByhG63HioQHAQ/qfdDI4ox40xHTvX07ynu4zzNAN7GPB9vNWYloTTF6XTR9/WUJB0ZPxnDrfQihUMx9+IHvHuLiehifX229qLm3hrK9Z8Fb7IgfbTn5CWRBRnEaGrXG9n/R9hjF3/UTBxV7kF/UWjELPZ1EO51qsb9dWqNBPKd63K/u6hgOQXZQQAcSOTUnAh+TlP+UTrOrPhb0uiFyMUdH0q91iP6dJQ9oVTW/p1TdQr38I3r9VQ5Y6/RYyI2Lqc0f5+dRijmtzD+qocVbg1+JspqBCP5sR0pftChyl4bjE3jSiKQqHDI85FMMsVWqn",
+    "solution": "OJLGKWWO9ZeY5Y+WkyHmvzMHGAJSTVBWJmxhSRCwfMU/r8wA4lzHXmkhxLKcrKJn/yHH4jtdgeOxXe9RjWW2dDdsGQ==",
+    "max-score": 17
+  },
+  null
+]
