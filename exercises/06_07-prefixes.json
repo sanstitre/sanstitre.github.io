@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 7: Préfixes d'une liste",
+    "short_description": "Recherche des préfixes d'une liste",
+    "stars": 0
+  },
+  {
+    "id": "06_07-prefixes",
+    "prelude": "",
+    "template": "let rec prefixes l = failwith \"Your answer\";;\n",
+    "descr": [
+      [
+        "",
+        "<p><strong>Question 1.</strong>\nRédiger une fonction OCaml calculant la liste de tous les préfixes d’une liste donnée.</p>\n<p>Par exemple <code>prefixes [1; 2; 3; 4]</code> renverra <code>[[1];[1;2];[1;2;3];[1;2;3;4]]</code>.</p>\n<p><code>prefixes : &#39;a list -&gt; &#39;a list list</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "IVBN+MA/Q/r7F7bn7z6KnnYPTTgUSVZLPTxeWVXsfJsfcoFoEDK9TyNpwKn5bfc/9DTGO7Bnva4gXdQRgHeZaRZaTRc7TIY074/6e4ccZKgoAJVCieNZmyl0Uw1PyjqKFJqPe1BGFv0KNHvGFmFAsPjZ8U0IRRXxdRVM50yPry96TQZq85UHG3Z53OD7D9DPYoIMAUFVXEtWA6E2G0yknH4aFTlHJZ64M7ikuKDewXWK2dAjLDmvavFPjRndKbmDQzxCHjI2zArBt8O7oVQ0qT1oiAGVtkyO4RsS/pb4+dxUzdaspEY4qMxrOgI++U8nqxWVThFCWfy/GBSJpank1nwPRS7JHkMIgi/vhNNxS2hiQRhNXE/VXDsqA6UYtO8VOaYE+VUny6omO48lq308ZwFfkntvP+S7aVaJE+dk/dUaN/gRLBCLFYydPKXFU6rcNmH1AZWmW+xwVRiYMNBtpAaWkLS3Go+ro8lnlkUuSLr/lIROmpYExKQEAxzKjfpcZyJJ+IQ3S5+aJm4ejVIM5H6uZjZ2XElZLE6URkPprhkEvmglGmT0Q//hu2ahrL2w7ivU2o6nyr4gCc9TlieSeRZaTRc7AZpL7aR9e32PIL2oTMU26PUYgH9GFN5ayQ7sQJq+vZU1QtOWYXWQGi5HsIbZbp4GS/myco9mjxTCxW9yTlYMfVEHCPZwGPf1Gob0K5dZTFkQS9kwHQdVW43dnH4mEz/VLJIMJpWH60iehnDENtQsJ8S8brQMjmrLKg3bQ8Z1A7N2k94MwzX/p/Uvdy/H/UL4tpLc1QV+yRDrMhRI9sPXbUdWqNAlZZQK4kLxjvGERxELF2LZZlnJpvT31SsUCGOYFFVLqmxz6N9cQc1tAB/MDDMZGRwVU9FZcv0IMdFBSRAh8kcoC48wevbv0hxl6WV81OvgxTnWV31u/3hQ1lQYO/XVCYzJ1d3sAGTnJQqGGeekBPJaAVbXDOhmbpH1zeS3HELD5isi66shBeT+xYRG5QtVlvEZFZPLnL6nLkQI+x9CUp8e2jOc6AkEmjMNBBcFGVVQO9RtPmzgfM5er9NsBnW2F7tcavfXlrM5oDSUITAmwaLsGxtLvziCdEIbCkFqDxZYnL9qx1FSGbBoRwoGfgwRqDoVFxYFkGn3UuHma2BPFunuSRHTTm67lLmNlE0EUkDegpQ4mLS47ihzQVxziXtHCIUtIKbBDUr0+mwNOFRBTR/uYURQQbj66iWfUC2VYssE1oq7fP8ehXCW12IjOm3gxKE7kTrLKg3bFyNRBRkWllXKxD+7nyck8TAJkA+PhAXD0ow+8R0Y01wvtsuclEdWocV5Yt/P15Cexx8IDcJ4F+SfTQaB7sml1S2TXC+MGFR17lNKbd6CBZs6ERdJVkBBXDxSOmpQr38IObQS4B5p/ox6YvXvfLX8KMllzWF8I+qqdRO1Qclh/eZLPn6hY6CGChzvOK8KGy0YWEfVTdGmKtEWVR0R+LsrpRS0lqTQU8ndlG2b6mB8D+z/oNBGhWtav+QMHcjli0VmJkRRWYMZQ9rc+SCl8A2fj8AVTSooGVcMJoAZHBClcrIer9EcL7WDG7EegPah6PJ48XuA4i6nuau9DZwYdWexumkpT6h8RIYQ70EyvNZDL+ElMYQp5qtQe9E=",
+    "solution": "bFACeLV47IbhdRyxKx1kDzN1TQwEVkwNIFc4Pmy/fLNGr9p8VRrz2Vx9u47yh0I5nSvUBD1PdL7wMgBCc7X+aoIjC61iXtV4pLtoe2pA+3ooGxcVz0wRsGpHUghLnW4XQMuTcNBUDQ==",
+    "max-score": 6
+  },
+  null
+]

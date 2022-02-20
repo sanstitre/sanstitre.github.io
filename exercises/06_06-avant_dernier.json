@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 6: Avant-dernier élément",
+    "short_description": "Recherche de l'avant-dernier élément d'une liste",
+    "stars": 0
+  },
+  {
+    "id": "06_06-avant_dernier",
+    "prelude": "",
+    "template": "let rec avant_dernier n = failwith \"Your answer\";;\n",
+    "descr": [
+      [
+        "",
+        "<p><strong>Question 1.</strong>\nÉcrire une fonction qui retourne l’avant-dernier élément d’une liste, s’il existe.</p>\n<p><code>avant_dernier : &#39;a -&gt; &#39;a list</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "8w2U4KfhgWrwkcImls2kBCYPTTgUSVZLPTxeWVXsfJsfcoFoEDK9TyNpwKn5bfc/9DTGO7Bnva4gXdQRgHeZaRZaTRc7TIY074/6e4ccZKgoAJVCieNZmyl0Uw1PyjqKFJqPe1BGFv0KNHvGFmFAsPjZ8U0IRRXxdRVM50yPryzO76cehJ75K3j66WGftXdAYoIMAUFVXEtWA6E2G0yknH4aFTlHJZ64M7ikuKDewXWK2dAjLDmvavFPjRndKbmDQzxCHjI2zArBt8O7oVQ0qT1oiAGVtkyO4RsS/pb4+dxUzdaspEY4qMxrOgI++U8nqxWVThFCWfy/GBSJpank1hWIXDmy5qQheL7XYYqX26EiQRhNXE/VXDsqA6UYtO8VOaYE+VUny6omO48lq308ZwFfkntvP+S7aVaJE+dk/dUaN/gRLBCLFYydPKXFU6rcNmH1AZWmW+xwVRiYMNBtpAaWkLS3Go+ro8lnlkUuSLr/lIROmpYExKQEAxzKjfpcn0VQ4OvDeT+lgtwf53lmTi6uZjZ2XElZLE6URkPprhkEvmglGmT0Q//hu2ahrL2w7ivU2o6nyr4gCc9TlieSeRZaTRc7AZpL7aR9e32PIL2oTNQZ5PlFpi5QRJYLkHCGQO0Wka/PFunE1W7HMH12sLP1mQyP2ATWgQxNpIX2xEKS7FkybxXq2s3ByyvQaTxqZ6UUV6FQVlkwXF6GRLy/k8qmDj9xSqJ41i7suLbfsWGKYOteJ7C9fbQNjmrLKg3bQ8Z1A7N2k94MwzX/p/Uvdy/H/UL4tpLc1QV+yRDrMhRI9sPXbUdWqNAlZZQK4kLxjvGERxELF2LZZlnJpvT31YSTEX4j74JesPq0BYGC4B5tAB/MDDMZGRwVU9FZcv0IMdFBSRAh8kcoC48wevbv0hxl6WV81OvgxTnWV31u/4dU2lpFHVTDW13cOubGABybWj3VTdHyFOcxK/CNDNJjmQaVw3nqD/HczXwx6mB7Be+/iMlJmnEdv+RNTIzp7fB9jd2X4rGNcD7oh1lr9PA9VCUNA5kFZDMp+RARFRCevZgfcBVCESWJETxcaffXlrM5oDSUITAmwaLsGxtLvziCdEIbCkFqDxZYnL9qx1FSGbBoRwoGfgwRqDoVFxYFkGn3UuHma2BPFunuSRHTTm67lLmNlE0EUkDegpQ4mLS47ifJ69Mntb+5OIesiSeZtyRU+mwNOFRBTR/uYURQQbj66iWfUC2VYssE1oq7fP8ehWGS22xuHD+qdOdWyEO5Kbvn+BdCUWJEpk827mzhn9MprmhAf/fbd60c2RsF8DiC015VmgOnyzUaqNAlOcMlNBn8fx8HDtBZF3XsH67JowDl4xzGQlbEg+Aha+733NGu3oxiP59JQk2QXDtSOmpQr38IObQS4B5p/ox6YvXvfLX8KMllzWF8I+qqdRO1Qclh/eZLPn6hY6CGChzvOK8KGy0YWEfVTdGmKtEWVR0R+LsrpRS0lqTQU8ndlG2b6mB8D+z/oNBGhWtav+QMHcjli0Vm7JNIT3jEgXrjvNlkkL6FFTAVTSooGVcMJoAZHBClcrIer9EcL7WDG7EegPah6PJ48XuA4i6nuau9DZwYdWexumkpT6h8RIYQ70EyvNZDL+ElMYQp5qtQe9E=",
+    "solution": "mARx+zOyTgg4SiL0Jzrxv8EPBA/DGQQZLlV4V9TpwhYR9olcL6i02Vx9u24C6rMsj8TGP7x6ufLPEIkrgGTCdAY1Kpk7+d1Q7YtCeY93ZLN0Zd/Pqv/LeToYCN5DojPKFOS3rIIBXazCNGuTVCx=",
+    "max-score": 6
+  },
+  null
+]

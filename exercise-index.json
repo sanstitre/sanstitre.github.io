@@ -359,6 +359,26 @@
               "short_description": "Où l'on écrit deux fonctions liées à l'arithmétique",
               "stars": 0
             }
+          ],
+          [
+            "06_06-avant_dernier",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 6: Avant-dernier élément",
+              "short_description": "Recherche de l'avant-dernier élément d'une liste",
+              "stars": 0
+            }
+          ],
+          [
+            "06_07-prefixes",
+            {
+              "learnocaml_version": "2",
+              "kind": "exercise",
+              "title": "Exercice 7: Préfixes d'une liste",
+              "short_description": "Recherche des préfixes d'une liste",
+              "stars": 0
+            }
           ]
         ]
       },
