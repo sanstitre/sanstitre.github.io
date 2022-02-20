@@ -378,6 +378,16 @@
             "short_description": "Recherche des préfixes d'une liste",
             "stars": 0
           }
+        ],
+        [
+          "06_08-rotations",
+          {
+            "learnocaml_version": "2",
+            "kind": "exercise",
+            "title": "Exercice 8: Rotations d'une liste",
+            "short_description": "Rotation des éléments d'une liste",
+            "stars": 0
+          }
         ]
       ]
     },

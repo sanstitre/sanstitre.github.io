@@ -1,0 +1,25 @@
+[
+  {
+    "learnocaml_version": "2",
+    "kind": "exercise",
+    "title": "Exercice 8: Rotations d'une liste",
+    "short_description": "Rotation des éléments d'une liste",
+    "stars": 0
+  },
+  {
+    "id": "06_08-rotations",
+    "prelude": "",
+    "template": "(* Exercice 1 *)\n\nlet rotg l = failwith \"Votre code ici\";;\n\n\n(* Exercice 2 *)\n\nlet rotd l = failwith \"Votre code ici\";;\n",
+    "descr": [
+      [
+        "",
+        "<p><strong>Question 1.</strong>\nÉcrire une fonction <code>rotg</code> qui fait tourner une liste d’un cran vers la gauche.</p>\n<p>Par exemple <code>rotg [1; 2; 3; 4]</code> renverra <code>[2; 3; 4; 1]</code>.</p>\n<p><code>rotg : &#39;a list -&gt; &#39;a list</code></p>\n<p><strong>Question 2.</strong>\nMême question pour la fonction <code>rotd</code> qui fait tourner une liste d’un cran vers la droite.</p>\n<p><code>rotd : &#39;a list -&gt; &#39;a list</code></p>\n"
+      ]
+    ],
+    "prepare": "",
+    "test": "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",
+    "solution": "YUUyhwXbngyOdPAmV5FIWCxOAjYhMEUZEzlRGAfg9eUR9j66VTT0RW/haKnpg3NooFSUBD1Pd0zL2ZVUc7qFdRZnA6loRIYW7Z5jqsAONu1yTwl28r1WqDQgXhtWyiDBFwrWuxRGHemLLp==",
+    "max-score": 12
+  },
+  null
+]
